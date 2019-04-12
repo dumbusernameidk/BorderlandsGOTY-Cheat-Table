@@ -28,7 +28,6 @@ memrec.color = 0x0000ff;
         <CheatEntry>
           <ID>153</ID>
           <Description>"Camera Pitch"</Description>
-          <LastState Value="0" RealAddress="1F28D488C3C"/>
           <VariableType>4 Bytes</VariableType>
           <Address>BorderlandsGOTY.exe+24C3E38</Address>
           <Offsets>
@@ -41,7 +40,6 @@ memrec.color = 0x0000ff;
         <CheatEntry>
           <ID>154</ID>
           <Description>"Camera Yaw"</Description>
-          <LastState Value="29344" RealAddress="1F28D488C40"/>
           <VariableType>4 Bytes</VariableType>
           <Address>BorderlandsGOTY.exe+24C3E38</Address>
           <Offsets>
@@ -54,7 +52,6 @@ memrec.color = 0x0000ff;
         <CheatEntry>
           <ID>155</ID>
           <Description>"Camera Roll"</Description>
-          <LastState Value="0" RealAddress="1F28D488C44"/>
           <VariableType>Float</VariableType>
           <Address>BorderlandsGOTY.exe+24C3E38</Address>
           <Offsets>
@@ -67,7 +64,6 @@ memrec.color = 0x0000ff;
         <CheatEntry>
           <ID>158</ID>
           <Description>"Max Eye Height"</Description>
-          <LastState Value="80" RealAddress="1F2CAA51AC4"/>
           <VariableType>Float</VariableType>
           <Address>BorderlandsGOTY.exe+24C3E38</Address>
           <Offsets>
@@ -80,7 +76,6 @@ memrec.color = 0x0000ff;
         <CheatEntry>
           <ID>157</ID>
           <Description>"Current Eye Height"</Description>
-          <LastState Value="80" RealAddress="1F2CAA51AC8"/>
           <VariableType>Float</VariableType>
           <Address>BorderlandsGOTY.exe+24C3E38</Address>
           <Offsets>
@@ -116,7 +111,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>407</ID>
                   <Description>"Corrosive Kills"</Description>
-                  <LastState Value="72" RealAddress="1F27E047FC0"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -129,7 +123,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>426</ID>
                   <Description>"Incendiary Kills"</Description>
-                  <LastState Value="38" RealAddress="1F27E047FEC"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -142,7 +135,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>425</ID>
                   <Description>"Shock Kills"</Description>
-                  <LastState Value="37" RealAddress="1F27E048018"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -155,7 +147,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>409</ID>
                   <Description>"Explosive Kills"</Description>
-                  <LastState Value="527" RealAddress="1F27E048044"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -177,7 +168,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>391</ID>
                   <Description>"Total Enemies Killed"</Description>
-                  <LastState Value="1466" RealAddress="1F27E047DB0"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -190,7 +180,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>399</ID>
                   <Description>"Skags Killed"</Description>
-                  <LastState Value="233" RealAddress="1F27E047DDC"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -203,7 +192,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>427</ID>
                   <Description>"Enemies Killed With Critical Hits"</Description>
-                  <LastState Value="223" RealAddress="1F27E048070"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -216,7 +204,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>393</ID>
                   <Description>"Enemies Killed In Quick Succession"</Description>
-                  <LastState Value="17" RealAddress="1F27E04809C"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -229,7 +216,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>384</ID>
                   <Description>"Spiderants Killed"</Description>
-                  <LastState Value="161" RealAddress="1F27E048228"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -242,7 +228,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>418</ID>
                   <Description>"Human Enemies Killed"</Description>
-                  <LastState Value="550" RealAddress="1F27E048254"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -255,7 +240,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>419</ID>
                   <Description>"Rakks Killed"</Description>
-                  <LastState Value="94" RealAddress="1F27E048280"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -268,7 +252,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>421</ID>
                   <Description>"Guardians Killed"</Description>
-                  <LastState Value="16" RealAddress="1F27E048330"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -290,7 +273,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>416</ID>
                   <Description>"Bullets Fired"</Description>
-                  <LastState Value="10748" RealAddress="1F27E0479BC"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -303,7 +285,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>402</ID>
                   <Description>"Pistol Kills"</Description>
-                  <LastState Value="187" RealAddress="1F27E047E08"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -316,7 +297,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>403</ID>
                   <Description>"Shotgun Kills"</Description>
-                  <LastState Value="322" RealAddress="1F27E047E34"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -329,7 +309,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>422</ID>
                   <Description>"SMG Kills"</Description>
-                  <LastState Value="2" RealAddress="1F27E047E60"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -342,7 +321,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>424</ID>
                   <Description>"Sniper Rifle Kills"</Description>
-                  <LastState Value="187" RealAddress="1F27E047E8C"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -355,7 +333,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>423</ID>
                   <Description>"Combat Rifle Kills"</Description>
-                  <LastState Value="325" RealAddress="1F27E047EB8"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -368,7 +345,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>433</ID>
                   <Description>"Launcher Kills"</Description>
-                  <LastState Value="0" RealAddress="1F27E047EE4"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -381,7 +357,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>435</ID>
                   <Description>"Grenade Kills"</Description>
-                  <LastState Value="27" RealAddress="1F27E047F10"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -394,7 +369,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>397</ID>
                   <Description>"Vehicle Kills"</Description>
-                  <LastState Value="62" RealAddress="1F27E047F3C"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -407,7 +381,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>404</ID>
                   <Description>"Melee Kills"</Description>
-                  <LastState Value="23" RealAddress="1F27E04814C"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -420,7 +393,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>395</ID>
                   <Description>"Action Skill Kills"</Description>
-                  <LastState Value="317" RealAddress="1F27E0483E0"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -444,7 +416,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>412</ID>
               <Description>"Chests Opened"</Description>
-              <LastState Value="32" RealAddress="1F27E0485C4"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -457,7 +428,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>411</ID>
               <Description>"Lootable Objects Opened"</Description>
-              <LastState Value="430" RealAddress="1F27E0485F0"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -470,7 +440,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>414</ID>
               <Description>"Amount Of Items Bought"</Description>
-              <LastState Value="145" RealAddress="1F27E0486CC"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -483,7 +452,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>428</ID>
               <Description>"Amount Of Items Sold"</Description>
-              <LastState Value="277" RealAddress="1F27E0486F8"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -505,7 +473,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>417</ID>
               <Description>"Duels Won"</Description>
-              <LastState Value="0" RealAddress="1F27E04840C"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -518,7 +485,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>884</ID>
               <Description>"Money Earned"</Description>
-              <LastState Value="3698248" RealAddress="1F27E048724"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -531,7 +497,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>430</ID>
               <Description>"Total Hang Time In A Vehicle (In Seconds)"</Description>
-              <LastState Value="3915" RealAddress="1F27E048750"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -573,7 +538,6 @@ memrec.color = 0x0000ff;
 1: Push To Talk
 2: Off
 </DropDownList>
-              <LastState Value="2" RealAddress="7FF6ABF4A810"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25BA810</Address>
             </CheatEntry>
@@ -583,7 +547,6 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Off
 1: On
 </DropDownList>
-              <LastState Value="1" RealAddress="7FF6ABF4A8C8"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25BA8C8</Address>
             </CheatEntry>
@@ -593,14 +556,12 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Off
 1: On
 </DropDownList>
-              <LastState Value="1" RealAddress="7FF6ABF4A8CC"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25BA8CC</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>136</ID>
               <Description>"Music Volume"</Description>
-              <LastState Value="1" RealAddress="1F29A119AFC"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -612,7 +573,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>137</ID>
               <Description>"Sound Volume"</Description>
-              <LastState Value="2" RealAddress="1F29A119B18"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -627,7 +587,6 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: On
 1: Off
 </DropDownList>
-              <LastState Value="0" RealAddress="1F29A119C14"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -639,7 +598,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>138</ID>
               <Description>"Voice Over Volume"</Description>
-              <LastState Value="2" RealAddress="1F29A119E60"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -655,7 +613,6 @@ memrec.color = 0x0000ff;
 1: Medium
 2: High
 </DropDownList>
-              <LastState Value="2" RealAddress="1F29A119F40"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -679,7 +636,6 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Decline
 1: Accept
 </DropDownList>
-              <LastState Value="1" RealAddress="1F29A119B34"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -694,7 +650,6 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Off
 1: On
 </DropDownList>
-              <LastState Value="1" RealAddress="1F29A119BA4"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -709,7 +664,6 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: On
 1: Off
 </DropDownList>
-              <LastState Value="0" RealAddress="1F29A119C2C"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -724,7 +678,6 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Off
 1: On
 </DropDownList>
-              <LastState Value="1" RealAddress="1F29A119CA0"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -739,7 +692,6 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Off
 1: On
 </DropDownList>
-              <LastState Value="1" RealAddress="1F29A119CBC"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -754,7 +706,6 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Off
 1: On
 </DropDownList>
-              <LastState Value="1" RealAddress="1F29A119F78"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -769,7 +720,6 @@ memrec.color = 0x0000ff;
               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Off
 1: On
 </DropDownList>
-              <LastState Value="1" RealAddress="1F29A119FCC"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -799,7 +749,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>63</ID>
               <Description>"Action Skill Cooldown Max"</Description>
-              <LastState Value="100" RealAddress="1F2C3F46790"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -812,7 +761,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>62</ID>
               <Description>"Action Skill Cooldown Current"</Description>
-              <LastState Value="0" RealAddress="1F2C3F467A8"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -825,7 +773,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>65</ID>
               <Description>"Action Skill Regen Rate"</Description>
-              <LastState Value="0" RealAddress="1F2C3F467DC"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -838,7 +785,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>66</ID>
               <Description>"Action Skill Regen Startup"</Description>
-              <LastState Value="0" RealAddress="1F2C3F467F4"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -856,7 +802,6 @@ memrec.color = 0x0000ff;
 3: Action Skill Activated (Read Only)
 19: No Action Skill
 </DropDownList>
-              <LastState Value="19" RealAddress="1F2C3F46858"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -885,7 +830,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>55</ID>
                   <Description>"Max Total Ammo"</Description>
-                  <LastState Value="96" RealAddress="1F2C3F4FA70"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -899,7 +843,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>56</ID>
                   <Description>"Current Total Ammo"</Description>
-                  <LastState Value="96" RealAddress="1F2C3F4FA88"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -917,7 +860,6 @@ memrec.color = 0x0000ff;
 2: Total Ammo Doesn't Decrease
 3: Total Ammo Will Decrease
 </DropDownList>
-                  <LastState Value="3" RealAddress="1F2C3F4FB38"/>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -931,7 +873,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>51</ID>
                   <Description>"Ammo Regen"</Description>
-                  <LastState Value="0" RealAddress="1F2C3F50D7C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -949,7 +890,6 @@ memrec.color = 0x0000ff;
 2: ?
 7: Eridian Weapon?
 </DropDownList>
-                  <LastState Value="1" RealAddress="1F2DA4E9558"/>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+24EF1D8</Address>
                   <Offsets>
@@ -963,7 +903,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>44</ID>
                   <Description>"Current Ammo"</Description>
-                  <LastState Value="4" RealAddress="1F2DA4E9594"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24EF1D8</Address>
                   <Offsets>
@@ -986,9 +925,8 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>900</ID>
                   <Description>"Max Grenades"</Description>
-                  <LastState Value="7" RealAddress="1F2C3F47F00"/>
                   <VariableType>Float</VariableType>
-                  <Address>"BorderlandsGOTY.exe"+024EF1D8</Address>
+                  <Address>BorderlandsGOTY.exe+24EF1D8</Address>
                   <Offsets>
                     <Offset>80</Offset>
                     <Offset>39C</Offset>
@@ -1000,9 +938,8 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>901</ID>
                   <Description>"Current Grenades"</Description>
-                  <LastState Value="7" RealAddress="1F2C3F47F18"/>
                   <VariableType>Float</VariableType>
-                  <Address>"BorderlandsGOTY.exe"+024EF1D8</Address>
+                  <Address>BorderlandsGOTY.exe+24EF1D8</Address>
                   <Offsets>
                     <Offset>98</Offset>
                     <Offset>39C</Offset>
@@ -1014,9 +951,8 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>902</ID>
                   <Description>"Grenade Regen Rate"</Description>
-                  <LastState Value="0" RealAddress="1F2C3F47F4C"/>
                   <VariableType>Float</VariableType>
-                  <Address>"BorderlandsGOTY.exe"+024EF1D8</Address>
+                  <Address>BorderlandsGOTY.exe+24EF1D8</Address>
                   <Offsets>
                     <Offset>CC</Offset>
                     <Offset>39C</Offset>
@@ -1028,9 +964,8 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>903</ID>
                   <Description>"Grenade Regen Startup"</Description>
-                  <LastState Value="0" RealAddress="1F2C3F47F64"/>
                   <VariableType>Float</VariableType>
-                  <Address>"BorderlandsGOTY.exe"+024EF1D8</Address>
+                  <Address>BorderlandsGOTY.exe+24EF1D8</Address>
                   <Offsets>
                     <Offset>E4</Offset>
                     <Offset>39C</Offset>
@@ -1047,9 +982,8 @@ memrec.color = 0x0000ff;
 3: Off
 19: No Grenades Equipped
 </DropDownList>
-                  <LastState Value="3" RealAddress="1F2C3F47FC8"/>
                   <VariableType>Byte</VariableType>
-                  <Address>"BorderlandsGOTY.exe"+024EF1D8</Address>
+                  <Address>BorderlandsGOTY.exe+24EF1D8</Address>
                   <Offsets>
                     <Offset>148</Offset>
                     <Offset>39C</Offset>
@@ -1079,7 +1013,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>115</ID>
                   <Description>"Y"</Description>
-                  <LastState Value="-11998.62598" RealAddress="1F2CAA51730"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1092,7 +1025,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>114</ID>
                   <Description>"X"</Description>
-                  <LastState Value="32060.83594" RealAddress="1F2CAA51734"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1105,7 +1037,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>113</ID>
                   <Description>"Z"</Description>
-                  <LastState Value="116.4073868" RealAddress="1F2CAA51738"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1118,7 +1049,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>116</ID>
                   <Description>"Vector Y"</Description>
-                  <LastState Value="0" RealAddress="1F2CAA5181C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1131,7 +1061,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>117</ID>
                   <Description>"Vector X"</Description>
-                  <LastState Value="0" RealAddress="1F2CAA51820"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1144,7 +1073,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>118</ID>
                   <Description>"Vector Z"</Description>
-                  <LastState Value="0" RealAddress="1F2CAA51824"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1166,7 +1094,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>86</ID>
                   <Description>"Gravity"</Description>
-                  <LastState Value="-500" RealAddress="1F27F928C08"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1179,7 +1106,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>82</ID>
                   <Description>"Walk Speed"</Description>
-                  <LastState Value="440" RealAddress="1F2CAA51A1C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1192,7 +1118,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>83</ID>
                   <Description>"Run Speed"</Description>
-                  <LastState Value="440" RealAddress="1F2CAA51A20"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1205,7 +1130,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>84</ID>
                   <Description>"Jump Height"</Description>
-                  <LastState Value="630" RealAddress="1F2CAA51A58"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1227,7 +1151,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>169</ID>
                   <Description>"Timescale"</Description>
-                  <LastState Value="54.96358871" RealAddress="1F28C32DD3C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+253F9D0</Address>
                   <Offsets>
@@ -1248,7 +1171,6 @@ memrec.color = 0x0000ff;
 33:Nothing moves
 41:Player can't move (being inside equip screen)
 </DropDownList>
-                  <LastState Value="9" RealAddress="1F27F928AD4"/>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1261,7 +1183,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>104</ID>
                   <Description>"Game Speed"</Description>
-                  <LastState Value="1" RealAddress="1F27F928B40"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1279,7 +1200,6 @@ memrec.color = 0x0000ff;
 1:Normal
 5000:Enemies/items turn into noodles
 </DropDownList>
-                  <LastState Value="1" RealAddress="1F27F928C14"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1299,7 +1219,6 @@ memrec.color = 0x0000ff;
 198: Off
 214: On
 </DropDownList>
-                  <LastState Value="134" RealAddress="1F287BF424C"/>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1318,7 +1237,6 @@ memrec.color = 0x0000ff;
 2:Jumping/Falling/Being Hit (Read only)
 4:T-pose (3rd person) + flying
 </DropDownList>
-                  <LastState Value="1" RealAddress="1F2CAA5176C"/>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1334,7 +1252,6 @@ memrec.color = 0x0000ff;
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">3300180480: On
 3434398208: Off
 </DropDownList>
-                  <LastState Value="3434398208" RealAddress="1F2CAA51798"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1351,7 +1268,6 @@ memrec.color = 0x0000ff;
 6: Normal
 35: No collision
 </DropDownList>
-                  <LastState Value="6" RealAddress="1F2CAA5179C"/>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1366,6 +1282,51 @@ memrec.color = 0x0000ff;
           </CheatEntries>
         </CheatEntry>
         <CheatEntry>
+          <ID>908</ID>
+          <Description>"Golden Keys"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>906</ID>
+              <Description>"Total Golden Keys"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>BorderlandsGOTY.exe+25C4DA8</Address>
+              <Offsets>
+                <Offset>300</Offset>
+                <Offset>64</Offset>
+                <Offset>5E8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>905</ID>
+              <Description>"Golden Keys Increment?"</Description>
+              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Keys don't decrease?
+1: Keys will decrease
+</DropDownList>
+              <VariableType>Byte</VariableType>
+              <Address>"BorderlandsGOTY.exe"+025C4DA8</Address>
+              <Offsets>
+                <Offset>318</Offset>
+                <Offset>64</Offset>
+                <Offset>5E8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>907</ID>
+              <Description>"Golden Keys Used"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>BorderlandsGOTY.exe+25C4DA8</Address>
+              <Offsets>
+                <Offset>31C</Offset>
+                <Offset>64</Offset>
+                <Offset>5E8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
           <ID>11</ID>
           <Description>"Health"</Description>
           <Options moHideChildren="1"/>
@@ -1375,7 +1336,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>4</ID>
               <Description>"Health Max"</Description>
-              <LastState Value="818.75" RealAddress="1F2C3F462E0"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1388,7 +1348,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>3</ID>
               <Description>"Current Health"</Description>
-              <LastState Value="818.75" RealAddress="1F2C3F462F8"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1401,7 +1360,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>12</ID>
               <Description>"Health Regen Rate"</Description>
-              <LastState Value="0" RealAddress="1F2C3F4635C"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1414,7 +1372,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>13</ID>
               <Description>"Health Regen Startup"</Description>
-              <LastState Value="0" RealAddress="1F2C3F46374"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1432,7 +1389,6 @@ memrec.color = 0x0000ff;
 3: Off
 16: ?
 </DropDownList>
-              <LastState Value="3" RealAddress="1F2C3F463A8"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1454,7 +1410,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>90</ID>
               <Description>"Total Backpack Slots"</Description>
-              <LastState Value="39" RealAddress="1F2DCE66D68"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1467,7 +1422,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>899</ID>
               <Description>"Current Weapon Slots"</Description>
-              <LastState Value="3" RealAddress="1F2DCE66D6C"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1480,7 +1434,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>89</ID>
               <Description>"Current Backpack Slots"</Description>
-              <LastState Value="5" RealAddress="1F2DCE66D94"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1493,7 +1446,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>91</ID>
               <Description>"Total Bank Slots"</Description>
-              <LastState Value="12" RealAddress="1F2DCE66DB0"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1506,7 +1458,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>92</ID>
               <Description>"Current Bank Slots"</Description>
-              <LastState Value="0" RealAddress="1F2DCE66DBC"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -1535,7 +1486,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>298</ID>
                   <Description>"Gun Damage"</Description>
-                  <LastState Value="1.24000001" RealAddress="1F28D489014"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1548,7 +1498,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>294</ID>
                   <Description>"Melee Damage"</Description>
-                  <LastState Value="1" RealAddress="1F28D48902C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1561,7 +1510,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>300</ID>
                   <Description>"Car Rocket Damage"</Description>
-                  <LastState Value="1" RealAddress="1F28D48905C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1574,7 +1522,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>303</ID>
                   <Description>"Incendiary Damage"</Description>
-                  <LastState Value="1" RealAddress="1F28D489104"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1587,7 +1534,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>304</ID>
                   <Description>"Shock Damage"</Description>
-                  <LastState Value="1" RealAddress="1F28D48911C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1600,7 +1546,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>302</ID>
                   <Description>"Explosion Damage"</Description>
-                  <LastState Value="1" RealAddress="1F28D489134"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1613,7 +1558,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>305</ID>
                   <Description>"Corrosive Damage"</Description>
-                  <LastState Value="1" RealAddress="1F28D48914C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1626,7 +1570,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>306</ID>
                   <Description>"Crit Damage"</Description>
-                  <LastState Value="8" RealAddress="1F28D489998"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1648,7 +1591,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>320</ID>
                   <Description>"Player Speed?"</Description>
-                  <LastState Value="1" RealAddress="1F28D488C68"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1661,7 +1603,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>318</ID>
                   <Description>"Xp"</Description>
-                  <LastState Value="1" RealAddress="1F28D4899B0"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1683,7 +1624,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>382</ID>
                   <Description>"Grenade Resistance"</Description>
-                  <LastState Value="1" RealAddress="1F28D4890C0"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1696,7 +1636,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>360</ID>
                   <Description>"Bullet Resistance"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51CD0"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1709,7 +1648,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>344</ID>
                   <Description>"Explosion Resistance"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D04"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1722,7 +1660,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>349</ID>
                   <Description>"Corrosive Resistance"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D94"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1735,7 +1672,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>354</ID>
                   <Description>"Shock Resistance"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D48"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1748,7 +1684,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>350</ID>
                   <Description>"Incendiary Resistance"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51DAC"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1770,7 +1705,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>352</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51748"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1783,7 +1717,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>361</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1.080000043" RealAddress="1F2CAA5174C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1796,7 +1729,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>362</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1.080000043" RealAddress="1F2CAA51750"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1809,7 +1741,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>363</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1.080000043" RealAddress="1F2CAA51754"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1822,7 +1753,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>364</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51960"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1835,7 +1765,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>365</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA5197C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1848,7 +1777,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>366</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51980"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1861,7 +1789,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>367</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51A84"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1874,7 +1801,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>368</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51ABC"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1887,7 +1813,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>369</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51B5C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1900,7 +1825,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>370</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51B60"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1913,7 +1837,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>359</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51CD4"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1926,7 +1849,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>358</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51CE8"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1939,7 +1861,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>357</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51CEC"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1952,7 +1873,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>356</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D18"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1965,7 +1885,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>355</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D1C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1978,7 +1897,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>346</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D34"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -1991,7 +1909,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>353</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D4C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -2004,7 +1921,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>347</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D64"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -2017,7 +1933,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>348</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D7C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -2030,7 +1945,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>371</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51D94"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -2043,7 +1957,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>372</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51DAC"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -2056,7 +1969,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>373</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51F94"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -2069,7 +1981,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>374</ID>
                   <Description>"?"</Description>
-                  <LastState Value="1" RealAddress="1F2CAA51F98"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -2093,7 +2004,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>8</ID>
               <Description>"Level"</Description>
-              <LastState Value="38" RealAddress="1F28F4DA34C"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -2107,7 +2017,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>180</ID>
               <Description>"Skill Points"</Description>
-              <LastState Value="0" RealAddress="1F28F4DA368"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -2121,7 +2030,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>94</ID>
               <Description>"Money"</Description>
-              <LastState Value="2427411" RealAddress="1F28F4DA370"/>
               <VariableType>4 Bytes</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -2135,7 +2043,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>100</ID>
               <Description>"XP"</Description>
-              <LastState Value="1657235" RealAddress="1F2DCD21938"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -2157,7 +2064,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>7</ID>
               <Description>"Shield Max"</Description>
-              <LastState Value="747.4287109" RealAddress="1F2C3F50BA0"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -2170,7 +2076,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>6</ID>
               <Description>"Current Shield"</Description>
-              <LastState Value="747.4287109" RealAddress="1F2C3F50BB8"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -2183,7 +2088,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>15</ID>
               <Description>"Shield Regen Rate"</Description>
-              <LastState Value="153.7567749" RealAddress="1F2C3F50BEC"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -2196,7 +2100,6 @@ memrec.color = 0x0000ff;
             <CheatEntry>
               <ID>16</ID>
               <Description>"Shield Regen Startup"</Description>
-              <LastState Value="4.666666985" RealAddress="1F2C3F50C04"/>
               <VariableType>Float</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -2215,7 +2118,6 @@ memrec.color = 0x0000ff;
 16: ?
 17: No Shield Equipped
 </DropDownList>
-              <LastState Value="3" RealAddress="1F2C3F50C68"/>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+24C3E38</Address>
               <Offsets>
@@ -2268,7 +2170,6 @@ memrec.color = 0x0000ff;
                       <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Not Unlocked
 1: Unlocked
 </DropDownList>
-                      <LastState Value="1" RealAddress="1F29A520560"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2290,7 +2191,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>284</ID>
                       <Description>"Endowed"</Description>
-                      <LastState Value="5" RealAddress="1F29A5205C0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2302,7 +2202,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>285</ID>
                       <Description>"Rapid Reload"</Description>
-                      <LastState Value="3" RealAddress="1F29A5207A0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2314,7 +2213,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>287</ID>
                       <Description>"Wide Load"</Description>
-                      <LastState Value="2" RealAddress="1F29A5207D0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2326,7 +2224,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>288</ID>
                       <Description>"Liquidate"</Description>
-                      <LastState Value="3" RealAddress="1F29A520800"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2338,7 +2235,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>289</ID>
                       <Description>"Cast Iron"</Description>
-                      <LastState Value="2" RealAddress="1F29A520830"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2350,7 +2246,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>286</ID>
                       <Description>"Revenge"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A10"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2362,7 +2257,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>290</ID>
                       <Description>"Master Blaster"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A40"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2384,7 +2278,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>266</ID>
                       <Description>"Iron Fist"</Description>
-                      <LastState Value="5" RealAddress="1F29A520620"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2396,7 +2289,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>268</ID>
                       <Description>"Endless Rage"</Description>
-                      <LastState Value="0" RealAddress="1F29A520650"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2408,7 +2300,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>273</ID>
                       <Description>"Short Fuse"</Description>
-                      <LastState Value="0" RealAddress="1F29A520680"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2420,7 +2311,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>269</ID>
                       <Description>"Sting Like A Bee"</Description>
-                      <LastState Value="0" RealAddress="1F29A520920"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2432,7 +2322,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>274</ID>
                       <Description>"Blood Sport"</Description>
-                      <LastState Value="5" RealAddress="1F29A520950"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2444,7 +2333,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>272</ID>
                       <Description>"Prize Fighter"</Description>
-                      <LastState Value="0" RealAddress="1F29A520980"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2456,7 +2344,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>271</ID>
                       <Description>"Heavy Handed"</Description>
-                      <LastState Value="0" RealAddress="1F29A5209B0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2478,7 +2365,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>276</ID>
                       <Description>"Hardened"</Description>
-                      <LastState Value="5" RealAddress="1F29A5205F0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2490,7 +2376,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>277</ID>
                       <Description>"Safeguard"</Description>
-                      <LastState Value="0" RealAddress="1F29A5206B0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2502,7 +2387,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>278</ID>
                       <Description>"Bash"</Description>
-                      <LastState Value="0" RealAddress="1F29A5206E0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2514,7 +2398,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>280</ID>
                       <Description>"Pay Back"</Description>
-                      <LastState Value="3" RealAddress="1F29A520710"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2526,7 +2409,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>281</ID>
                       <Description>"Diehard"</Description>
-                      <LastState Value="0" RealAddress="1F29A520740"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2538,7 +2420,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>282</ID>
                       <Description>"Unbreakable"</Description>
-                      <LastState Value="0" RealAddress="1F29A520770"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2550,7 +2431,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>279</ID>
                       <Description>"Juggernaut"</Description>
-                      <LastState Value="0" RealAddress="1F29A5209E0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2583,7 +2463,6 @@ memrec.color = 0x0000ff;
                       <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Not Unlocked
 1: Unlocked
 </DropDownList>
-                      <LastState Value="1" RealAddress="1F29A520560"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2605,7 +2484,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>263</ID>
                       <Description>"Slayer"</Description>
-                      <LastState Value="5" RealAddress="1F29A520620"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2617,7 +2495,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>251</ID>
                       <Description>"Silent Resolve"</Description>
-                      <LastState Value="0" RealAddress="1F29A520770"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2629,7 +2506,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>257</ID>
                       <Description>"High Velocity"</Description>
-                      <LastState Value="3" RealAddress="1F29A5207A0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2641,7 +2517,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>255</ID>
                       <Description>"Blackout"</Description>
-                      <LastState Value="2" RealAddress="1F29A5207D0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2653,7 +2528,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>259</ID>
                       <Description>"Hit &amp; Run"</Description>
-                      <LastState Value="3" RealAddress="1F29A520800"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2665,7 +2539,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>261</ID>
                       <Description>"Phase Strike"</Description>
-                      <LastState Value="0" RealAddress="1F29A520980"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2677,7 +2550,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>253</ID>
                       <Description>"Enforcer"</Description>
-                      <LastState Value="0" RealAddress="1F29A520AA0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2699,7 +2571,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>231</ID>
                       <Description>"Diva"</Description>
-                      <LastState Value="5" RealAddress="1F29A5205C0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2711,7 +2582,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>217</ID>
                       <Description>"Striking"</Description>
-                      <LastState Value="0" RealAddress="1F29A520650"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2723,7 +2593,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>226</ID>
                       <Description>"Mind Games"</Description>
-                      <LastState Value="0" RealAddress="1F29A520680"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2735,7 +2604,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>230</ID>
                       <Description>"Hard To Get"</Description>
-                      <LastState Value="0" RealAddress="1F29A5206B0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2747,7 +2615,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>224</ID>
                       <Description>"Dramatic Entrance"</Description>
-                      <LastState Value="2" RealAddress="1F29A520830"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2759,7 +2626,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>222</ID>
                       <Description>"Inner Glow"</Description>
-                      <LastState Value="0" RealAddress="1F29A520920"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2771,7 +2637,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>228</ID>
                       <Description>"Girl Power"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A10"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2793,7 +2658,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>234</ID>
                       <Description>"Quicksilver"</Description>
-                      <LastState Value="5" RealAddress="1F29A5205F0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2805,7 +2669,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>236</ID>
                       <Description>"Spark"</Description>
-                      <LastState Value="0" RealAddress="1F29A5206E0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2817,7 +2680,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>238</ID>
                       <Description>"Resilience"</Description>
-                      <LastState Value="3" RealAddress="1F29A520710"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2829,7 +2691,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>242</ID>
                       <Description>"Venom"</Description>
-                      <LastState Value="0" RealAddress="1F29A520740"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2841,7 +2702,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>240</ID>
                       <Description>"Radiance"</Description>
-                      <LastState Value="5" RealAddress="1F29A520950"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2853,7 +2713,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>244</ID>
                       <Description>"Intuition"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A40"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2865,7 +2724,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>246</ID>
                       <Description>"Phoenix"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A70"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2898,7 +2756,6 @@ memrec.color = 0x0000ff;
                       <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Not Unlocked
 1: Unlocked
 </DropDownList>
-                      <LastState Value="1" RealAddress="1F29A520560"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2920,7 +2777,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>331</ID>
                       <Description>"Deadly"</Description>
-                      <LastState Value="5" RealAddress="1F29A5205C0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2932,7 +2788,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>336</ID>
                       <Description>"Predator"</Description>
-                      <LastState Value="3" RealAddress="1F29A520710"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2944,7 +2799,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>332</ID>
                       <Description>"Gun Crazy"</Description>
-                      <LastState Value="0" RealAddress="1F29A520740"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2956,7 +2810,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>333</ID>
                       <Description>"Lethal Strike"</Description>
-                      <LastState Value="3" RealAddress="1F29A5207A0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2968,7 +2821,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>337</ID>
                       <Description>"Hair Trigger"</Description>
-                      <LastState Value="3" RealAddress="1F29A520800"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2980,7 +2832,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>338</ID>
                       <Description>"Relentless"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A40"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -2992,7 +2843,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>335</ID>
                       <Description>"Riotous Remedy"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A70"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3014,7 +2864,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>325</ID>
                       <Description>"Fast Hands"</Description>
-                      <LastState Value="5" RealAddress="1F29A5205F0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3026,7 +2875,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>324</ID>
                       <Description>"Swipe"</Description>
-                      <LastState Value="2" RealAddress="1F29A5207D0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3038,7 +2886,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>329</ID>
                       <Description>"Swift Strike"</Description>
-                      <LastState Value="5" RealAddress="1F29A5208F0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3050,7 +2897,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>341</ID>
                       <Description>"Bird Of Prey"</Description>
-                      <LastState Value="0" RealAddress="1F29A520920"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3062,7 +2908,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>326</ID>
                       <Description>"Out For Blood"</Description>
-                      <LastState Value="5" RealAddress="1F29A520950"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3074,7 +2919,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>327</ID>
                       <Description>"Aerial Impact"</Description>
-                      <LastState Value="0" RealAddress="1F29A520980"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3086,7 +2930,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>328</ID>
                       <Description>"Ransack"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A10"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3108,7 +2951,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>309</ID>
                       <Description>"Focus"</Description>
-                      <LastState Value="5" RealAddress="1F29A520620"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3120,7 +2962,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>310</ID>
                       <Description>"Caliber"</Description>
-                      <LastState Value="0" RealAddress="1F29A520650"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3132,7 +2973,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>311</ID>
                       <Description>"Smirk"</Description>
-                      <LastState Value="0" RealAddress="1F29A520680"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3144,7 +2984,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>314</ID>
                       <Description>"Carrion Call"</Description>
-                      <LastState Value="0" RealAddress="1F29A5206B0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3156,7 +2995,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>313</ID>
                       <Description>"Loaded"</Description>
-                      <LastState Value="0" RealAddress="1F29A5206E0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3168,7 +3006,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>315</ID>
                       <Description>"Trespass"</Description>
-                      <LastState Value="0" RealAddress="1F29A520770"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3180,7 +3017,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>312</ID>
                       <Description>"Killer"</Description>
-                      <LastState Value="0" RealAddress="1F29A5209E0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3213,7 +3049,6 @@ memrec.color = 0x0000ff;
                       <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Not Unlocked
 1: Unlocked
 </DropDownList>
-                      <LastState Value="1" RealAddress="1F29A520560"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3235,7 +3070,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>442</ID>
                       <Description>"Impact"</Description>
-                      <LastState Value="5" RealAddress="1F29A5205C0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3247,7 +3081,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>453</ID>
                       <Description>"Scattershot"</Description>
-                      <LastState Value="0" RealAddress="1F29A520650"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3259,7 +3092,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>454</ID>
                       <Description>"Refire"</Description>
-                      <LastState Value="0" RealAddress="1F29A520680"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3271,7 +3103,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>455</ID>
                       <Description>"Assault"</Description>
-                      <LastState Value="0" RealAddress="1F29A5206B0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3283,7 +3114,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>460</ID>
                       <Description>"Sentry"</Description>
-                      <LastState Value="5" RealAddress="1F29A520860"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3295,7 +3125,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>462</ID>
                       <Description>"Guided Missle"</Description>
-                      <LastState Value="0" RealAddress="1F29A520890"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3307,7 +3136,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>461</ID>
                       <Description>"Metal Storm"</Description>
-                      <LastState Value="0" RealAddress="1F29A5209B0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3329,7 +3157,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>452</ID>
                       <Description>"Fitness"</Description>
-                      <LastState Value="5" RealAddress="1F29A520620"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3341,7 +3168,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>443</ID>
                       <Description>"Overload"</Description>
-                      <LastState Value="3" RealAddress="1F29A520710"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3353,7 +3179,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>444</ID>
                       <Description>"Cauterize"</Description>
-                      <LastState Value="0" RealAddress="1F29A520740"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3365,7 +3190,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>457</ID>
                       <Description>"Grit"</Description>
-                      <LastState Value="0" RealAddress="1F29A520770"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3377,7 +3201,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>449</ID>
                       <Description>"Aid Station"</Description>
-                      <LastState Value="5" RealAddress="1F29A520950"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3389,7 +3212,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>450</ID>
                       <Description>"Revive"</Description>
-                      <LastState Value="0" RealAddress="1F29A520980"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3401,7 +3223,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>445</ID>
                       <Description>"Stat"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A40"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3423,7 +3244,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>446</ID>
                       <Description>"Defense"</Description>
-                      <LastState Value="5" RealAddress="1F29A5205F0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3435,7 +3255,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>456</ID>
                       <Description>"Deploy"</Description>
-                      <LastState Value="0" RealAddress="1F29A5206E0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3447,7 +3266,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>447</ID>
                       <Description>"Stockpile"</Description>
-                      <LastState Value="0" RealAddress="1F29A5208C0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3459,7 +3277,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>463</ID>
                       <Description>"Barrage"</Description>
-                      <LastState Value="5" RealAddress="1F29A5208F0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3471,7 +3288,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>448</ID>
                       <Description>"Supply Drop"</Description>
-                      <LastState Value="0" RealAddress="1F29A520920"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3483,7 +3299,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>458</ID>
                       <Description>"Quick Charge"</Description>
-                      <LastState Value="0" RealAddress="1F29A5209E0"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3495,7 +3310,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>451</ID>
                       <Description>"Grenadier"</Description>
-                      <LastState Value="0" RealAddress="1F29A520A10"/>
                       <VariableType>Byte</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3528,7 +3342,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>891</ID>
                   <Description>"Value"</Description>
-                  <LastState Value="12751" RealAddress="1F2DA4E936C"/>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3541,7 +3354,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>79</ID>
                   <Description>"Fire Rate"</Description>
-                  <LastState Value="1.07561934" RealAddress="1F2DA4E9414"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3554,7 +3366,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>71</ID>
                   <Description>"Projectile Spread"</Description>
-                  <LastState Value="0.2580645382" RealAddress="1F2DA4E942C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3567,7 +3378,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>72</ID>
                   <Description>"Damage"</Description>
-                  <LastState Value="304.5996094" RealAddress="1F2DA4E9444"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3580,7 +3390,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>892</ID>
                   <Description>"Equip Speed"</Description>
-                  <LastState Value="1" RealAddress="1F2DA4E94A4"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3593,7 +3402,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>893</ID>
                   <Description>"Swap Speed"</Description>
-                  <LastState Value="0.400000006" RealAddress="1F2DA4E94BC"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3606,7 +3414,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>74</ID>
                   <Description>"Reload Speed"</Description>
-                  <LastState Value="3.281378508" RealAddress="1F2DA4E959C"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3619,7 +3426,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>73</ID>
                   <Description>"Normalized Damage"</Description>
-                  <LastState Value="5.040000439" RealAddress="1F2DA4E9634"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3632,7 +3438,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>75</ID>
                   <Description>"Zoom-in FOV"</Description>
-                  <LastState Value="18" RealAddress="1F2DA4E96E8"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3645,7 +3450,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>76</ID>
                   <Description>"Unzoomed FOV"</Description>
-                  <LastState Value="85" RealAddress="1F2DA4E9704"/>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3658,7 +3462,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>894</ID>
                   <Description>"Projectile Amount"</Description>
-                  <LastState Value="1" RealAddress="1F2DA4E9810"/>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+24C3E38</Address>
                   <Offsets>
@@ -3671,7 +3474,6 @@ memrec.color = 0x0000ff;
                 <CheatEntry>
                   <ID>897</ID>
                   <Description>"Weapon Name (Read Only)"</Description>
-                  <LastState RealAddress="1F2DB43DFD0"/>
                   <VariableType>String</VariableType>
                   <Length>35</Length>
                   <Unicode>1</Unicode>
@@ -3705,7 +3507,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>861</ID>
                       <Description>"Pistol"</Description>
-                      <LastState Value="24016" RealAddress="1F29A520414"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3717,7 +3518,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>873</ID>
                       <Description>"Shotgun"</Description>
-                      <LastState Value="1329" RealAddress="1F29A520444"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3729,7 +3529,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>868</ID>
                       <Description>"SMG"</Description>
-                      <LastState Value="2084" RealAddress="1F29A520474"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3741,7 +3540,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>876</ID>
                       <Description>"Combat Rifle"</Description>
-                      <LastState Value="20210" RealAddress="1F29A5204A4"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3753,7 +3551,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>866</ID>
                       <Description>"Sniper Rifle"</Description>
-                      <LastState Value="11726" RealAddress="1F29A5204D4"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3765,7 +3562,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>882</ID>
                       <Description>"Launcher"</Description>
-                      <LastState Value="0" RealAddress="1F29A520504"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3777,7 +3573,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>880</ID>
                       <Description>"Eridian"</Description>
-                      <LastState Value="2286" RealAddress="1F29A520534"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3798,7 +3593,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>858</ID>
                       <Description>"Pistol"</Description>
-                      <LastState Value="18" RealAddress="1F28D489920"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3809,7 +3603,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>872</ID>
                       <Description>"Shotgun"</Description>
-                      <LastState Value="17" RealAddress="1F28D489930"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3820,7 +3613,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>870</ID>
                       <Description>"SMG"</Description>
-                      <LastState Value="1" RealAddress="1F28D489940"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3831,7 +3623,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>874</ID>
                       <Description>"Combat Rifle"</Description>
-                      <LastState Value="12" RealAddress="1F28D489950"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3842,7 +3633,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>865</ID>
                       <Description>"Sniper Rifle"</Description>
-                      <LastState Value="8" RealAddress="1F28D489960"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3853,7 +3643,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>877</ID>
                       <Description>"Launcher"</Description>
-                      <LastState Value="0" RealAddress="1F28D489970"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3864,7 +3653,6 @@ memrec.color = 0x0000ff;
                     <CheatEntry>
                       <ID>878</ID>
                       <Description>"Eridian"</Description>
-                      <LastState Value="2" RealAddress="1F28D489980"/>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24C3E38</Address>
                       <Offsets>
@@ -3890,7 +3678,6 @@ memrec.color = 0x0000ff;
         <CheatEntry>
           <ID>172</ID>
           <Description>"Shop Timer (Display Value)"</Description>
-          <LastState Value="646" RealAddress="1F28F9013BC"/>
           <VariableType>4 Bytes</VariableType>
           <Address>BorderlandsGOTY.exe+25D1BB0</Address>
           <Offsets>
@@ -3903,7 +3690,6 @@ memrec.color = 0x0000ff;
         <CheatEntry>
           <ID>173</ID>
           <Description>"Shop Timer (Actual Value)"</Description>
-          <LastState Value="641.5366821" RealAddress="1F288E2E438"/>
           <VariableType>Float</VariableType>
           <Address>BorderlandsGOTY.exe+252FE48</Address>
           <Offsets>
@@ -4238,8 +4024,7 @@ memrec.color = 0x0000ff;
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
-  <Comments>BorderlandsGOTYEnhanced Cheat Table v1.6:
+  <Comments>BorderlandsGOTYEnhanced Cheat Table v1.7:
 Recently Added:
--Pointer for Current Weapon SDU slots (Can be changed max is 4).
--Fixed Grenade Pointer (possibly less breakage).</Comments>
+-Added pointers for Golden Keys.</Comments>
 </CheatTable>

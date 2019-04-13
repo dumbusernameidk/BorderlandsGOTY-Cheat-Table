@@ -511,6 +511,110 @@ memrec.color = 0x0000ff;
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
+      <ID>913</ID>
+      <Description>"Mission Pointers"</Description>
+      <Options moHideChildren="1"/>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+aobscanmodule(injMissionStart,BorderlandsGOTY.exe,8B 4C 81 08 41 39 4C 9D 00)
+alloc(newmem,64,"BorderlandsGOTY.exe"+13D2F52)
+label(code)
+label(return)
+label(Objectives_ptr)
+registersymbol(injMissionStart)
+registersymbol(Objectives_ptr)
+
+newmem:
+mov [Objectives_ptr],rcx
+
+code:
+mov ecx,[rcx+rax*4+08]
+cmp [r13+rbx*4+00],ecx
+jmp return
+
+Objectives_ptr:
+dq 0
+
+injMissionStart:
+jmp newmem
+nop
+nop
+nop
+nop
+
+return:
+
+[DISABLE]
+injMissionStart:
+db 8B 4C 81 08 41 39 4C 9D 00
+unregistersymbol(injMissionStart)
+unregistersymbol(Objectives_ptr)
+dealloc(newmem)
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1284</ID>
+          <Description>"Missions with do X objective X times can be done ie., 9/10."</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>0000FF</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1283</ID>
+          <Description>"Only input a 1 for the amount of objectives for your current mission"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>0000FF</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>914</ID>
+          <Description>"Objective 1"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>Objectives_ptr</Address>
+          <Offsets>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>915</ID>
+          <Description>"Objective 2"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>Objectives_ptr</Address>
+          <Offsets>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>916</ID>
+          <Description>"Objective 3"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>Objectives_ptr</Address>
+          <Offsets>
+            <Offset>20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>917</ID>
+          <Description>"Objective 4"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>Objectives_ptr</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>918</ID>
+          <Description>"Objective 5"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>Objectives_ptr</Address>
+          <Offsets>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
       <ID>132</ID>
       <Description>"Options Menu"</Description>
       <Options moHideChildren="1"/>
@@ -1300,22 +1404,8 @@ memrec.color = 0x0000ff;
               </Offsets>
             </CheatEntry>
             <CheatEntry>
-              <ID>905</ID>
-              <Description>"Golden Keys Increment? (Requires freezing the value)"</Description>
-              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0: Keys don't decrease?
-1: Keys will decrease
-</DropDownList>
-              <VariableType>Byte</VariableType>
-              <Address>BorderlandsGOTY.exe+25C4DA8</Address>
-              <Offsets>
-                <Offset>318</Offset>
-                <Offset>64</Offset>
-                <Offset>5E8</Offset>
-              </Offsets>
-            </CheatEntry>
-            <CheatEntry>
               <ID>907</ID>
-              <Description>"Golden Keys Used"</Description>
+              <Description>"Golden Keys Used (Can freeze value)"</Description>
               <VariableType>Byte</VariableType>
               <Address>BorderlandsGOTY.exe+25C4DA8</Address>
               <Offsets>
@@ -4024,8 +4114,9 @@ memrec.color = 0x0000ff;
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
-  <Comments>BorderlandsGOTYEnhanced Cheat Table v1.7:
+  <Comments>BorderlandsGOTYEnhanced Cheat Table v1.8:
 Recently Added:
--Added pointers for Golden Keys.
+-Removed redundant Golden Key pointer.
+-Added script that grabs addresses for current mission objectives.
 </Comments>
 </CheatTable>

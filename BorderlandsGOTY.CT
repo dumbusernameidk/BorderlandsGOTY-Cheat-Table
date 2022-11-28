@@ -1608,13 +1608,13 @@ dealloc(newmem)
               <LastState/>
               <VariableType>Auto Assembler Script</VariableType>
               <AssemblerScript Async="1">[ENABLE]
-aobscanmodule(getGoldenKeys,BorderlandsGOTY.exe,01 75 06 8B 41 04 89 02)
+aobscanmodule(getGoldenKeys,BorderlandsGOTY.exe,01 75 * 8B 41 04 89 *)
 alloc(newmem,$1000,getGoldenKeys)
 label(Exit,code)
 registersymbol(getGoldenKeys,GoldenKeyPointer)
 
 newmem:
-cmp   r9w, E500
+cmp   bx, 1B
 jne   code
 mov   [GoldenKeyPointer], rcx
 
@@ -3051,9 +3051,10 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                       <LastState/>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript Async="1">[ENABLE]
-aobscanmodule(getWorldInfoStruct,BorderlandsGOTY.exe,48 8B 01 48 8B D9 FF 90 88 02)
+aobscanmodule(getWorldInfoStruct,BorderlandsGOTY.exe,48 8B 01 48 8B D9 FF 90 * * * * F3 0F 59 83 * * * * 48 83 C4 20 5B C3)
 alloc(newmem,$1000,getWorldInfoStruct)
 label(Exit)
+
 registersymbol(getWorldInfoStruct,WorldInfoPointer)
 
 newmem:

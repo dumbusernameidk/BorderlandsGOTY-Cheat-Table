@@ -140,7 +140,6 @@ dealloc(newmem)
 01: Push To Talk
 02: Off
 </DropDownList>
-                  <LastState Value="02" RealAddress="7FF7FE465060"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -152,7 +151,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00: Off
 01: On
 </DropDownList>
-                  <LastState Value="01" RealAddress="7FF7FE465118"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -164,7 +162,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00: Off
 01: On
 </DropDownList>
-                  <LastState Value="01" RealAddress="7FF7FE46511C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -173,7 +170,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>30059</ID>
                   <Description>"Music Volume"</Description>
-                  <LastState Value="3" RealAddress="20304CEC26C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -187,7 +183,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>30060</ID>
                   <Description>"Sound Volume"</Description>
-                  <LastState Value="2" RealAddress="20304CEC288"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -204,7 +199,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:On
 01:Off
 </DropDownList>
-                  <LastState Value="00" RealAddress="20304CEC384"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -222,7 +216,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:On
 01:Off
 </DropDownList>
-                  <LastState Value="02" RealAddress="20304CEC5D0"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -241,7 +234,6 @@ dealloc(newmem)
 01:Medium
 02:High
 </DropDownList>
-                  <LastState Value="02" RealAddress="20304CEC6B0"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -268,7 +260,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Decline
 01:Accept
 </DropDownList>
-                  <LastState Value="03" RealAddress="20304CEC26C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -286,7 +277,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Off
 01:On
 </DropDownList>
-                  <LastState Value="01" RealAddress="20304CEC314"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -304,7 +294,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:On
 01:Off
 </DropDownList>
-                  <LastState Value="01" RealAddress="20304CEC39C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -322,7 +311,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Off
 01:On
 </DropDownList>
-                  <LastState Value="01" RealAddress="20304CEC410"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -340,7 +328,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Off
 01:On
 </DropDownList>
-                  <LastState Value="01" RealAddress="20304CEC42C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -358,7 +345,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Off
 01:On
 </DropDownList>
-                  <LastState Value="01" RealAddress="20304CEC6E8"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -376,7 +362,6 @@ dealloc(newmem)
                   <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Off
 01:On
 </DropDownList>
-                  <LastState Value="01" RealAddress="20304CEC73C"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -423,7 +408,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26332</ID>
                           <Description>"MinValue"</Description>
-                          <LastState Value="0" RealAddress="203492CED28"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -438,7 +422,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26335</ID>
                           <Description>"MaxValue"</Description>
-                          <LastState Value="48" RealAddress="203492CED40"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -453,7 +436,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26334</ID>
                           <Description>"CurrentValue"</Description>
-                          <LastState Value="48" RealAddress="203492CED58"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -468,7 +450,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26336</ID>
                           <Description>"OnIdleRegenerationRate"</Description>
-                          <LastState Value="0" RealAddress="203492CED8C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -483,7 +464,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26337</ID>
                           <Description>"OnIdleRegenerationDelay"</Description>
-                          <LastState Value="0" RealAddress="203492CEDA4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -502,7 +482,6 @@ dealloc(newmem)
 02:True
 03:False
 </DropDownList>
-                          <LastState Value="03" RealAddress="203492CEE08"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
@@ -527,7 +506,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26340</ID>
                           <Description>"MinValue"</Description>
-                          <LastState Value="0" RealAddress="203492CB038"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -542,7 +520,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26341</ID>
                           <Description>"MaxValue"</Description>
-                          <LastState Value="200" RealAddress="203492CB050"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -557,7 +534,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26342</ID>
                           <Description>"CurrentValue"</Description>
-                          <LastState Value="163" RealAddress="203492CB068"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -572,7 +548,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26343</ID>
                           <Description>"OnIdleRegenerationRate"</Description>
-                          <LastState Value="0" RealAddress="203492CB09C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -587,7 +562,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26344</ID>
                           <Description>"OnIdleRegenerationDelay"</Description>
-                          <LastState Value="0" RealAddress="203492CB0B4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -606,7 +580,6 @@ dealloc(newmem)
 02:True
 03:False
 </DropDownList>
-                          <LastState Value="03" RealAddress="203492CB118"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
@@ -631,7 +604,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26347</ID>
                           <Description>"MinValue"</Description>
-                          <LastState Value="0" RealAddress="203492CDBF8"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -646,7 +618,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26348</ID>
                           <Description>"MaxValue"</Description>
-                          <LastState Value="60" RealAddress="203492CDC10"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -661,7 +632,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26349</ID>
                           <Description>"CurrentValue"</Description>
-                          <LastState Value="60" RealAddress="203492CDC28"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -676,7 +646,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26350</ID>
                           <Description>"OnIdleRegenerationRate"</Description>
-                          <LastState Value="0" RealAddress="203492CDC5C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -691,7 +660,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26351</ID>
                           <Description>"OnIdleRegenerationDelay"</Description>
-                          <LastState Value="0" RealAddress="203492CDC74"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -710,7 +678,6 @@ dealloc(newmem)
 02:True
 03:False
 </DropDownList>
-                          <LastState Value="03" RealAddress="203492CDCD8"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
@@ -735,7 +702,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26354</ID>
                           <Description>"MinValue"</Description>
-                          <LastState Value="0" RealAddress="203492CB1C8"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -750,7 +716,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26355</ID>
                           <Description>"MaxValue"</Description>
-                          <LastState Value="360" RealAddress="203492CB1E0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -765,7 +730,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26356</ID>
                           <Description>"CurrentValue"</Description>
-                          <LastState Value="360" RealAddress="203492CB1F8"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -780,7 +744,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26357</ID>
                           <Description>"OnIdleRegenerationRate"</Description>
-                          <LastState Value="0" RealAddress="203492CB22C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -795,7 +758,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26358</ID>
                           <Description>"OnIdleRegenerationDelay"</Description>
-                          <LastState Value="0" RealAddress="203492CB244"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -814,7 +776,6 @@ dealloc(newmem)
 02:True
 03:False
 </DropDownList>
-                          <LastState Value="03" RealAddress="203492CB2A8"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
@@ -839,7 +800,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26361</ID>
                           <Description>"MinValue"</Description>
-                          <LastState Value="0" RealAddress="203492D0628"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -854,7 +814,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26362</ID>
                           <Description>"MaxValue"</Description>
-                          <LastState Value="80" RealAddress="203492D0640"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -869,7 +828,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26363</ID>
                           <Description>"CurrentValue"</Description>
-                          <LastState Value="79" RealAddress="203492D0658"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -884,7 +842,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26364</ID>
                           <Description>"OnIdleRegenerationRate"</Description>
-                          <LastState Value="0" RealAddress="203492D068C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -899,7 +856,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26365</ID>
                           <Description>"OnIdleRegenerationDelay"</Description>
-                          <LastState Value="0" RealAddress="203492D06A4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -918,7 +874,6 @@ dealloc(newmem)
 02:True
 03:False
 </DropDownList>
-                          <LastState Value="03" RealAddress="203492D0708"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
@@ -943,7 +898,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26368</ID>
                           <Description>"MinValue"</Description>
-                          <LastState Value="0" RealAddress="203492CE6E8"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -958,7 +912,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26369</ID>
                           <Description>"MaxValue"</Description>
-                          <LastState Value="280" RealAddress="203492CE700"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -973,7 +926,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26370</ID>
                           <Description>"CurrentValue"</Description>
-                          <LastState Value="280" RealAddress="203492CE718"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -988,7 +940,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26371</ID>
                           <Description>"OnIdleRegenerationRate"</Description>
-                          <LastState Value="0" RealAddress="203492CE74C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1003,7 +954,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26372</ID>
                           <Description>"OnIdleRegenerationDelay"</Description>
-                          <LastState Value="0" RealAddress="203492CE764"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1022,7 +972,6 @@ dealloc(newmem)
 02:True
 03:False
 </DropDownList>
-                          <LastState Value="03" RealAddress="203492CE7C8"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
@@ -1047,7 +996,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26375</ID>
                           <Description>"MinValue"</Description>
-                          <LastState Value="0" RealAddress="203492CB678"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1062,7 +1010,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26376</ID>
                           <Description>"MaxValue"</Description>
-                          <LastState Value="24" RealAddress="203492CB690"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1077,7 +1024,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26377</ID>
                           <Description>"CurrentValue"</Description>
-                          <LastState Value="24" RealAddress="203492CB6A8"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1092,7 +1038,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26378</ID>
                           <Description>"OnIdleRegenerationRate"</Description>
-                          <LastState Value="0" RealAddress="203492CB6DC"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1107,7 +1052,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>26379</ID>
                           <Description>"OnIdleRegenerationDelay"</Description>
-                          <LastState Value="0" RealAddress="203492CB6F4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1126,7 +1070,6 @@ dealloc(newmem)
 02:True
 03:False
 </DropDownList>
-                          <LastState Value="03" RealAddress="203492CB758"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
@@ -1153,7 +1096,6 @@ dealloc(newmem)
                     <CheatEntry>
                       <ID>26326</ID>
                       <Description>"MinValue"</Description>
-                      <LastState Value="0" RealAddress="203492C74D8"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1168,7 +1110,6 @@ dealloc(newmem)
                     <CheatEntry>
                       <ID>26327</ID>
                       <Description>"MaxValue"</Description>
-                      <LastState Value="3" RealAddress="203492C74F0"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1183,7 +1124,6 @@ dealloc(newmem)
                     <CheatEntry>
                       <ID>26328</ID>
                       <Description>"CurrentValue"</Description>
-                      <LastState Value="2" RealAddress="203492C7508"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1198,7 +1138,6 @@ dealloc(newmem)
                     <CheatEntry>
                       <ID>26329</ID>
                       <Description>"OnIdleRegenerationRate"</Description>
-                      <LastState Value="0" RealAddress="203492C753C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1213,7 +1152,6 @@ dealloc(newmem)
                     <CheatEntry>
                       <ID>26330</ID>
                       <Description>"OnIdleRegenerationDelay"</Description>
-                      <LastState Value="0" RealAddress="203492C7554"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1233,7 +1171,6 @@ dealloc(newmem)
 03:False
 13:No Grenades Equipped
 </DropDownList>
-                      <LastState Value="03" RealAddress="203492C75B8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
@@ -1260,7 +1197,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26447</ID>
                   <Description>"CashValue"</Description>
-                  <LastState Value="321" RealAddress="2032F7C5A6C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1274,7 +1210,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26448</ID>
                   <Description>"FireIntervalBaseValue"</Description>
-                  <LastState Value="1.620000124" RealAddress="2032F7C5B18"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1288,7 +1223,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26449</ID>
                   <Description>"SpreadBaseValue"</Description>
-                  <LastState Value="8.319999695" RealAddress="2032F7C5B30"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1302,7 +1236,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26450</ID>
                   <Description>"InstantHitDamage"</Description>
-                  <LastState Value="20.11324692" RealAddress="2032F7C5B44"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1316,7 +1249,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26451</ID>
                   <Description>"EquipTime"</Description>
-                  <LastState Value="0.866666615" RealAddress="2032F7C5BA4"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1330,7 +1262,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26452</ID>
                   <Description>"PutDownTime"</Description>
-                  <LastState Value="0.5199999809" RealAddress="2032F7C5BBC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1349,7 +1280,6 @@ dealloc(newmem)
 02:?
 07:Eridian Weapon?
 </DropDownList>
-                  <LastState Value="01" RealAddress="2032F7C5C58"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -1364,7 +1294,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26446</ID>
                   <Description>"ReloadCnt"</Description>
-                  <LastState Value="5" RealAddress="2032F7C5C94"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1378,7 +1307,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26453</ID>
                   <Description>"ReloadTime"</Description>
-                  <LastState Value="3.714285612" RealAddress="2032F7C5C9C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1392,7 +1320,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26454</ID>
                   <Description>"NormalizedInstantHitDamage"</Description>
-                  <LastState Value="0.9523809552" RealAddress="2032F7C5D34"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1406,7 +1333,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26455</ID>
                   <Description>"ZoomedEndFOV"</Description>
-                  <LastState Value="31.76470375" RealAddress="2032F7C5DE8"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1420,7 +1346,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26456</ID>
                   <Description>"ZoomedFOV"</Description>
-                  <LastState Value="85" RealAddress="2032F7C5E04"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1434,7 +1359,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26457</ID>
                   <Description>"PerShotAccuracyImpulse"</Description>
-                  <LastState Value="8.571428299" RealAddress="2032F7C5E7C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1448,7 +1372,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26458</ID>
                   <Description>"ProjectilesPerShot"</Description>
-                  <LastState Value="12" RealAddress="2032F7C5F10"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1476,7 +1399,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>29877</ID>
                           <Description>"Pistol"</Description>
-                          <LastState Value="785" RealAddress="20332F7EBE4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1490,7 +1412,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>29879</ID>
                           <Description>"Shotgun"</Description>
-                          <LastState Value="500" RealAddress="20332F7EC14"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1504,7 +1425,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>29880</ID>
                           <Description>"SMG"</Description>
-                          <LastState Value="0" RealAddress="20332F7EC44"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1518,7 +1438,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>29881</ID>
                           <Description>"Combat Rifle"</Description>
-                          <LastState Value="0" RealAddress="20332F7EC74"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1532,7 +1451,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>29878</ID>
                           <Description>"Sniper Rifle"</Description>
-                          <LastState Value="0" RealAddress="20332F7ECA4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1546,7 +1464,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>29882</ID>
                           <Description>"Launcher"</Description>
-                          <LastState Value="0" RealAddress="20332F7ECD4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1560,7 +1477,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>29883</ID>
                           <Description>"Eridian"</Description>
-                          <LastState Value="0" RealAddress="20332F7ED04"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1583,7 +1499,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>858</ID>
                           <Description>"Pistol"</Description>
-                          <LastState Value="0" RealAddress="2035754E0B0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1595,7 +1510,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>872</ID>
                           <Description>"Shotgun"</Description>
-                          <LastState Value="0" RealAddress="2035754E0C0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1607,7 +1521,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>870</ID>
                           <Description>"SMG"</Description>
-                          <LastState Value="0" RealAddress="2035754E0D0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1619,7 +1532,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>874</ID>
                           <Description>"Combat Rifle"</Description>
-                          <LastState Value="0" RealAddress="2035754E0E0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1631,7 +1543,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>865</ID>
                           <Description>"Sniper Rifle"</Description>
-                          <LastState Value="0" RealAddress="2035754E0F0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1643,7 +1554,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>877</ID>
                           <Description>"Launcher"</Description>
-                          <LastState Value="0" RealAddress="2035754E100"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1655,7 +1565,6 @@ dealloc(newmem)
                         <CheatEntry>
                           <ID>878</ID>
                           <Description>"Eridian"</Description>
-                          <LastState Value="0" RealAddress="2035754E110"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -1680,7 +1589,6 @@ dealloc(newmem)
                 <CheatEntry>
                   <ID>26493</ID>
                   <Description>"Exp      {Must open Inventory for Pointer to load}"</Description>
-                  <LastState Value="8451340" RealAddress="2035754EB10"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1841,7 +1749,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26314</ID>
                   <Description>"MinValue"</Description>
-                  <LastState Value="0" RealAddress="203492C9738"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1856,7 +1763,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26319</ID>
                   <Description>"MaxValue"</Description>
-                  <LastState Value="1120" RealAddress="203492C9750"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1871,7 +1777,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26318</ID>
                   <Description>"CurrentValue"</Description>
-                  <LastState Value="1120" RealAddress="203492C9768"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1886,7 +1791,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26315</ID>
                   <Description>"PassiveRegenerationRate"</Description>
-                  <LastState Value="0" RealAddress="203492C97CC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1901,7 +1805,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26316</ID>
                   <Description>"LastMinValue"</Description>
-                  <LastState Value="0" RealAddress="203492C97E4"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1921,7 +1824,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
 03:False
 10:?
 </DropDownList>
-                  <LastState Value="03" RealAddress="203492C9818"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -1953,7 +1855,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30105</ID>
                       <Description>"Gun Damage"</Description>
-                      <LastState Value="1" RealAddress="2035754D7A4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1967,7 +1868,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30112</ID>
                       <Description>"Melee Damage"</Description>
-                      <LastState Value="1.179999948" RealAddress="2035754D7BC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1981,7 +1881,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30106</ID>
                       <Description>"Car Rocket Damage"</Description>
-                      <LastState Value="1" RealAddress="2035754D7EC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -1995,7 +1894,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30107</ID>
                       <Description>"Incendiary Damage"</Description>
-                      <LastState Value="1" RealAddress="2035754D894"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2009,7 +1907,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30108</ID>
                       <Description>"Shock Damage"</Description>
-                      <LastState Value="1" RealAddress="2035754D8AC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2023,7 +1920,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30109</ID>
                       <Description>"Explosion Damage"</Description>
-                      <LastState Value="1.090000033" RealAddress="2035754D8C4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2037,7 +1933,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30110</ID>
                       <Description>"Corrosive Damage"</Description>
-                      <LastState Value="1" RealAddress="2035754D8DC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2051,7 +1946,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30111</ID>
                       <Description>"Crit Damage"</Description>
-                      <LastState Value="0" RealAddress="2035754E128"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2074,7 +1968,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30113</ID>
                       <Description>"CustomTimeDilation"</Description>
-                      <LastState Value="1" RealAddress="2035754D3F8"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2088,7 +1981,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30114</ID>
                       <Description>"Exp"</Description>
-                      <LastState Value="1" RealAddress="2035754E140"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2120,7 +2012,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26478</ID>
                   <Description>"MinValue"</Description>
-                  <LastState Value="0" RealAddress="203492C7348"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2135,7 +2026,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26480</ID>
                   <Description>"MaxValue"</Description>
-                  <LastState Value="60" RealAddress="203492C7360"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2150,7 +2040,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26479</ID>
                   <Description>"CurrentValue"</Description>
-                  <LastState Value="0" RealAddress="203492C7378"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2165,7 +2054,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26481</ID>
                   <Description>"OnIdleRegenerationRate"</Description>
-                  <LastState Value="0" RealAddress="203492C73AC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2180,7 +2068,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26482</ID>
                   <Description>"OnIdleRegenerationDelay"</Description>
-                  <LastState Value="0" RealAddress="203492C73C4"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2200,7 +2087,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
 03:Action Skill Activated (Read Only)
 13:No Action Skill (Read Only)
 </DropDownList>
-                  <LastState Value="13" RealAddress="203492C7428"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -2225,7 +2111,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26320</ID>
                   <Description>"MinValue"</Description>
-                  <LastState Value="0" RealAddress="203492CA9F8"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2240,7 +2125,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26321</ID>
                   <Description>"MaxValue"</Description>
-                  <LastState Value="70" RealAddress="203492CAA10"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2255,7 +2139,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26322</ID>
                   <Description>"CurrentValue"</Description>
-                  <LastState Value="70" RealAddress="203492CAA28"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2270,7 +2153,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26323</ID>
                   <Description>"OnIdleRegenerationRate"</Description>
-                  <LastState Value="7.500000477" RealAddress="203492CAA5C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2285,7 +2167,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26324</ID>
                   <Description>"OnIdleRegenerationDelay"</Description>
-                  <LastState Value="7" RealAddress="203492CAA74"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2306,7 +2187,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
 10:?
 11:No Shield Equipped (Read Only)
 </DropDownList>
-                  <LastState Value="03" RealAddress="203492CAAD8"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -2345,7 +2225,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30091</ID>
                           <Description>"Corrosive Kills"</Description>
-                          <LastState Value="0" RealAddress="2030C0A5440"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2359,7 +2238,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30092</ID>
                           <Description>"Incendiary Kills"</Description>
-                          <LastState Value="109" RealAddress="2030C0A546C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2373,7 +2251,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30093</ID>
                           <Description>"Shock Kills"</Description>
-                          <LastState Value="0" RealAddress="2030C0A5498"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2387,7 +2264,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30094</ID>
                           <Description>"Explosive Kills"</Description>
-                          <LastState Value="7" RealAddress="2030C0A54C4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2410,7 +2286,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30072</ID>
                           <Description>"Total Enemies Killed"</Description>
-                          <LastState Value="289" RealAddress="2030C0A5230"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2424,7 +2299,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30073</ID>
                           <Description>"Skags Killed"</Description>
-                          <LastState Value="194" RealAddress="2030C0A525C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2438,7 +2312,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30074</ID>
                           <Description>"Enemies Killed With Critical Hits"</Description>
-                          <LastState Value="259" RealAddress="2030C0A54F0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2452,7 +2325,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30075</ID>
                           <Description>"Enemies Killed In Quick Succession"</Description>
-                          <LastState Value="9" RealAddress="2030C0A551C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2466,7 +2338,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30076</ID>
                           <Description>"Spiderants Killed"</Description>
-                          <LastState Value="0" RealAddress="2030C0A56A8"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2480,7 +2351,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30077</ID>
                           <Description>"Human Enemies Killed"</Description>
-                          <LastState Value="2440" RealAddress="2030C0A56D4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2494,7 +2364,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30078</ID>
                           <Description>"Rakks Killed"</Description>
-                          <LastState Value="12" RealAddress="2030C0A5700"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2508,7 +2377,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30079</ID>
                           <Description>"Guardians Killed"</Description>
-                          <LastState Value="0" RealAddress="2030C0A57B0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2531,7 +2399,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30080</ID>
                           <Description>"Bullets Fired"</Description>
-                          <LastState Value="1239" RealAddress="2030C0A4E3C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2545,7 +2412,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30081</ID>
                           <Description>"Pistol Kills"</Description>
-                          <LastState Value="141" RealAddress="2030C0A5288"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2559,7 +2425,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30082</ID>
                           <Description>"Shotgun Kills"</Description>
-                          <LastState Value="14" RealAddress="2030C0A52B4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2573,7 +2438,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30083</ID>
                           <Description>"SMG Kills"</Description>
-                          <LastState Value="0" RealAddress="2030C0A52E0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2587,7 +2451,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30084</ID>
                           <Description>"Sniper Rifle Kills"</Description>
-                          <LastState Value="0" RealAddress="2030C0A530C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2601,7 +2464,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30085</ID>
                           <Description>"Combat Rifle Kills"</Description>
-                          <LastState Value="0" RealAddress="2030C0A5338"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2615,7 +2477,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30086</ID>
                           <Description>"Launcher Kills"</Description>
-                          <LastState Value="0" RealAddress="2030C0A5364"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2629,7 +2490,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30087</ID>
                           <Description>"Grenade Kills"</Description>
-                          <LastState Value="7" RealAddress="2030C0A5390"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2643,7 +2503,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30088</ID>
                           <Description>"Vehicle Kills"</Description>
-                          <LastState Value="6" RealAddress="2030C0A53BC"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2657,7 +2516,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30089</ID>
                           <Description>"Melee Kills"</Description>
-                          <LastState Value="83" RealAddress="2030C0A55CC"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2671,7 +2529,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                         <CheatEntry>
                           <ID>30090</ID>
                           <Description>"Action Skill Kills"</Description>
-                          <LastState Value="25" RealAddress="2030C0A5860"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2696,7 +2553,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30095</ID>
                       <Description>"Chests Opened"</Description>
-                      <LastState Value="2" RealAddress="2030C0A5A44"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2710,7 +2566,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30096</ID>
                       <Description>"Lootable Objects Opened"</Description>
-                      <LastState Value="49" RealAddress="2030C0A5A70"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2724,7 +2579,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30097</ID>
                       <Description>"Amount Of Items Bought"</Description>
-                      <LastState Value="43" RealAddress="2030C0A5B4C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2738,7 +2592,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30098</ID>
                       <Description>"Amount Of Items Sold"</Description>
-                      <LastState Value="0" RealAddress="2030C0A5B78"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2761,7 +2614,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30099</ID>
                       <Description>"Duels Won"</Description>
-                      <LastState Value="0" RealAddress="2030C0A588C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2775,7 +2627,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30100</ID>
                       <Description>"Money Earned"</Description>
-                      <LastState Value="10008978" RealAddress="2030C0A5BA4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2789,7 +2640,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30101</ID>
                       <Description>"Total Hang Time In A Vehicle (In Seconds)"</Description>
-                      <LastState Value="24" RealAddress="2030C0A5BD0"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+24EE608</Address>
@@ -2814,7 +2664,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26473</ID>
                   <Description>"InventorySlotMax_Misc"</Description>
-                  <LastState Value="12" RealAddress="203482E3718"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+25EC5E0</Address>
@@ -2828,7 +2677,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26474</ID>
                   <Description>"Backpack_size"</Description>
-                  <LastState Value="6" RealAddress="203482E3744"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+25EC5E0</Address>
@@ -2842,7 +2690,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26475</ID>
                   <Description>"WeaponReadyMax"</Description>
-                  <LastState Value="4" RealAddress="203482E371C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+25EC5E0</Address>
@@ -2856,7 +2703,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26476</ID>
                   <Description>"StashSlots"</Description>
-                  <LastState Value="25" RealAddress="203482E3760"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+25EC5E0</Address>
@@ -2870,7 +2716,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26477</ID>
                   <Description>"TheStash_size"</Description>
-                  <LastState Value="0" RealAddress="203482E376C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+25EC5E0</Address>
@@ -2893,7 +2738,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26488</ID>
                   <Description>"ExpLevel"</Description>
-                  <LastState Value="69" RealAddress="2035859D66C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2907,7 +2751,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26489</ID>
                   <Description>"GeneralSkillPoints"</Description>
-                  <LastState Value="81" RealAddress="2035859D688"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2921,7 +2764,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 <CheatEntry>
                   <ID>26487</ID>
                   <Description>"CurrencyOnHand"</Description>
-                  <LastState Value="6956934" RealAddress="2035859D690"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2951,7 +2793,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28373</ID>
                       <Description>"Rotation.Pitch"</Description>
-                      <LastState Value="0" RealAddress="2034763115C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2965,7 +2806,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28374</ID>
                       <Description>"Rotation.Yaw"</Description>
-                      <LastState Value="-426232" RealAddress="20347631160"/>
                       <ShowAsSigned>1</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2979,7 +2819,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28375</ID>
                       <Description>"Rotation.Roll"</Description>
-                      <LastState Value="0" RealAddress="20347631164"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -2993,7 +2832,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28376</ID>
                       <Description>"BaseEyeHeight"</Description>
-                      <LastState Value="90" RealAddress="203476314E4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3007,7 +2845,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28377</ID>
                       <Description>"EyeHeight"</Description>
-                      <LastState Value="90" RealAddress="203476314E8"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3030,7 +2867,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28367</ID>
                       <Description>"Location.X"</Description>
-                      <LastState Value="-11965.05078" RealAddress="20347631150"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3044,7 +2880,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28368</ID>
                       <Description>"Location.Y"</Description>
-                      <LastState Value="31854.52148" RealAddress="20347631154"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3058,7 +2893,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28369</ID>
                       <Description>"Location.Z"</Description>
-                      <LastState Value="116.9373703" RealAddress="20347631158"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3072,7 +2906,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28370</ID>
                       <Description>"Velocity.X"</Description>
-                      <LastState Value="0" RealAddress="2034763123C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3086,7 +2919,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28371</ID>
                       <Description>"Velocity.Y"</Description>
-                      <LastState Value="0" RealAddress="20347631240"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3100,7 +2932,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28372</ID>
                       <Description>"Velocity.Z"</Description>
-                      <LastState Value="0" RealAddress="20347631244"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3123,7 +2954,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30217</ID>
                       <Description>"PlayerWaypoint.X"</Description>
-                      <LastState Value="0" RealAddress="2035754E158"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3136,7 +2966,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30218</ID>
                       <Description>"PlayerWaypoint.Y"</Description>
-                      <LastState Value="0" RealAddress="2035754E15C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3149,7 +2978,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>30219</ID>
                       <Description>"PlayerWaypoint.Z"</Description>
-                      <LastState Value="0" RealAddress="2035754E160"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3171,7 +2999,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28364</ID>
                       <Description>"GroundSpeed"</Description>
-                      <LastState Value="440" RealAddress="2034763143C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3185,7 +3012,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28365</ID>
                       <Description>"GroundSpeedBaseValue"</Description>
-                      <LastState Value="440" RealAddress="20347631440"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3199,7 +3025,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                     <CheatEntry>
                       <ID>28366</ID>
                       <Description>"JumpZ"</Description>
-                      <LastState Value="630" RealAddress="20347631478"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3350,7 +3175,6 @@ unregistersymbol(getWorldInfoStruct,WorldInfoPointer)
 04:T-pose (3rd person) + flying
 0A:Vehicle {Driver Seat}
 </DropDownList>
-                      <LastState Value="01" RealAddress="2034763118C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
@@ -3371,7 +3195,6 @@ C8B4C200:Cutscene
 CCB4C200:False
 DC340204:Vehicle  {Driver Seat}
 </DropDownList>
-                      <LastState Value="CCB4C200" RealAddress="203476311B8"/>
                       <ShowAsHex>1</ShowAsHex>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -3392,7 +3215,6 @@ DC340204:Vehicle  {Driver Seat}
 0E:Vehicle  {Driver Seat}
 23:False
 </DropDownList>
-                      <LastState Value="06" RealAddress="203476311BC"/>
                       <ShowAsHex>1</ShowAsHex>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
@@ -3411,7 +3233,6 @@ DC340204:Vehicle  {Driver Seat}
 86:False
 96:True
 </DropDownList>
-                      <LastState Value="86" RealAddress="202DB9BCB1C"/>
                       <ShowAsHex>1</ShowAsHex>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
@@ -3466,7 +3287,6 @@ DC340204:Vehicle  {Driver Seat}
                               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Not Unlocked
 01:Unlocked
 </DropDownList>
-                              <LastState Value="01" RealAddress="20332F7ED30"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
@@ -3491,7 +3311,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30142</ID>
                               <Description>"Endowed"</Description>
-                              <LastState Value="3" RealAddress="20332F7ED90"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3505,7 +3324,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30143</ID>
                               <Description>"Rapid Reload"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF70"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3519,7 +3337,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30144</ID>
                               <Description>"Wide Load"</Description>
-                              <LastState Value="0" RealAddress="20332F7EFA0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>"BorderlandsGOTY.exe"+025EA030</Address>
@@ -3533,7 +3350,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30145</ID>
                               <Description>"Liquidate"</Description>
-                              <LastState Value="0" RealAddress="20332F7EFD0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3547,7 +3363,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30146</ID>
                               <Description>"Cast Iron"</Description>
-                              <LastState Value="0" RealAddress="20332F7F000"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3561,7 +3376,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30147</ID>
                               <Description>"Revenge"</Description>
-                              <LastState Value="3" RealAddress="20332F7F1E0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3575,7 +3389,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30148</ID>
                               <Description>"Master Blaster"</Description>
-                              <LastState Value="0" RealAddress="20332F7F210"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3599,7 +3412,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30128</ID>
                               <Description>"Iron Fist"</Description>
-                              <LastState Value="3" RealAddress="20332F7EDF0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3613,7 +3425,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30134</ID>
                               <Description>"Endless Rage"</Description>
-                              <LastState Value="2" RealAddress="20332F7EE20"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3627,7 +3438,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30129</ID>
                               <Description>"Short Fuse"</Description>
-                              <LastState Value="0" RealAddress="20332F7EE50"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3641,7 +3451,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30130</ID>
                               <Description>"Sting Like A Bee"</Description>
-                              <LastState Value="0" RealAddress="20332F7F0F0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3655,7 +3464,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30131</ID>
                               <Description>"Blood Sport"</Description>
-                              <LastState Value="0" RealAddress="20332F7F120"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3669,7 +3477,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30132</ID>
                               <Description>"Prize Fighter"</Description>
-                              <LastState Value="0" RealAddress="20332F7F150"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3683,7 +3490,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30133</ID>
                               <Description>"Heavy Handed"</Description>
-                              <LastState Value="0" RealAddress="20332F7F180"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3707,7 +3513,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30135</ID>
                               <Description>"Hardened"</Description>
-                              <LastState Value="0" RealAddress="20332F7EDC0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3721,7 +3526,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30136</ID>
                               <Description>"Safeguard"</Description>
-                              <LastState Value="5" RealAddress="20332F7EE80"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3735,7 +3539,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30137</ID>
                               <Description>"Bash"</Description>
-                              <LastState Value="0" RealAddress="20332F7EEB0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3749,7 +3552,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30138</ID>
                               <Description>"Pay Back"</Description>
-                              <LastState Value="0" RealAddress="20332F7EEE0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3763,7 +3565,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30139</ID>
                               <Description>"Diehard"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF10"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3777,7 +3578,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30140</ID>
                               <Description>"Unbreakable"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF40"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3791,7 +3591,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30141</ID>
                               <Description>"Juggernaut"</Description>
-                              <LastState Value="4" RealAddress="20332F7F1B0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3826,7 +3625,6 @@ DC340204:Vehicle  {Driver Seat}
                               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Not Unlocked
 01:Unlocked
 </DropDownList>
-                              <LastState Value="01" RealAddress="20332F7ED30"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
@@ -3851,7 +3649,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30151</ID>
                               <Description>"Slayer"</Description>
-                              <LastState Value="3" RealAddress="20332F7EDF0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3865,7 +3662,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30152</ID>
                               <Description>"Silent Resolve"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF40"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3879,7 +3675,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30153</ID>
                               <Description>"High Velocity"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF70"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3893,7 +3688,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30154</ID>
                               <Description>"Blackout"</Description>
-                              <LastState Value="0" RealAddress="20332F7EFA0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3907,7 +3701,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30155</ID>
                               <Description>"Hit &amp; Run"</Description>
-                              <LastState Value="0" RealAddress="20332F7EFD0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3921,7 +3714,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30156</ID>
                               <Description>"Phase Strike"</Description>
-                              <LastState Value="0" RealAddress="20332F7F150"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3935,7 +3727,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30157</ID>
                               <Description>"Enforcer"</Description>
-                              <LastState Value="0" RealAddress="20332F7F270"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3959,7 +3750,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30158</ID>
                               <Description>"Diva"</Description>
-                              <LastState Value="3" RealAddress="20332F7ED90"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3973,7 +3763,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30159</ID>
                               <Description>"Striking"</Description>
-                              <LastState Value="2" RealAddress="20332F7EE20"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -3987,7 +3776,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30160</ID>
                               <Description>"Mind Games"</Description>
-                              <LastState Value="0" RealAddress="20332F7EE50"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4001,7 +3789,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30161</ID>
                               <Description>"Hard To Get"</Description>
-                              <LastState Value="5" RealAddress="20332F7EE80"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4015,7 +3802,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30162</ID>
                               <Description>"Dramatic Entrance"</Description>
-                              <LastState Value="0" RealAddress="20332F7F000"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4029,7 +3815,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30163</ID>
                               <Description>"Inner Glow"</Description>
-                              <LastState Value="0" RealAddress="20332F7F0F0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4043,7 +3828,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30164</ID>
                               <Description>"Girl Power"</Description>
-                              <LastState Value="3" RealAddress="20332F7F1E0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4067,7 +3851,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30165</ID>
                               <Description>"Quicksilver"</Description>
-                              <LastState Value="0" RealAddress="20332F7EDC0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4081,7 +3864,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30166</ID>
                               <Description>"Spark"</Description>
-                              <LastState Value="0" RealAddress="20332F7EEB0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4095,7 +3877,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30167</ID>
                               <Description>"Resilience"</Description>
-                              <LastState Value="0" RealAddress="20332F7EEE0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4109,7 +3890,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30168</ID>
                               <Description>"Venom"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF10"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4123,7 +3903,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30169</ID>
                               <Description>"Radiance"</Description>
-                              <LastState Value="0" RealAddress="20332F7F120"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4137,7 +3916,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30170</ID>
                               <Description>"Intuition"</Description>
-                              <LastState Value="0" RealAddress="20332F7F210"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4151,7 +3929,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30171</ID>
                               <Description>"Phoenix"</Description>
-                              <LastState Value="0" RealAddress="20332F7F240"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4186,7 +3963,6 @@ DC340204:Vehicle  {Driver Seat}
                               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Not Unlocked
 01:Unlocked
 </DropDownList>
-                              <LastState Value="01" RealAddress="20332F7ED30"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
@@ -4211,7 +3987,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30173</ID>
                               <Description>"Deadly"</Description>
-                              <LastState Value="3" RealAddress="20332F7ED90"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4225,7 +4000,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30174</ID>
                               <Description>"Predator"</Description>
-                              <LastState Value="0" RealAddress="20332F7EEE0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4239,7 +4013,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30175</ID>
                               <Description>"Gun Crazy"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF10"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4253,7 +4026,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30176</ID>
                               <Description>"Lethal Strike"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF70"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4267,7 +4039,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30177</ID>
                               <Description>"Hair Trigger"</Description>
-                              <LastState Value="0" RealAddress="20332F7EFD0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4281,7 +4052,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30178</ID>
                               <Description>"Relentless"</Description>
-                              <LastState Value="0" RealAddress="20332F7F210"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4295,7 +4065,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30179</ID>
                               <Description>"Riotous Remedy"</Description>
-                              <LastState Value="0" RealAddress="20332F7F240"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4319,7 +4088,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30180</ID>
                               <Description>"Fast Hands"</Description>
-                              <LastState Value="0" RealAddress="20332F7EDC0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4333,7 +4101,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30181</ID>
                               <Description>"Swipe"</Description>
-                              <LastState Value="0" RealAddress="20332F7EFA0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4347,7 +4114,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30182</ID>
                               <Description>"Swift Strike"</Description>
-                              <LastState Value="0" RealAddress="20332F7F0C0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4361,7 +4127,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30183</ID>
                               <Description>"Bird Of Prey"</Description>
-                              <LastState Value="0" RealAddress="20332F7F0F0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4375,7 +4140,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30184</ID>
                               <Description>"Out For Blood"</Description>
-                              <LastState Value="0" RealAddress="20332F7F120"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4389,7 +4153,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30185</ID>
                               <Description>"Aerial Impact"</Description>
-                              <LastState Value="0" RealAddress="20332F7F150"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4403,7 +4166,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30186</ID>
                               <Description>"Ransack"</Description>
-                              <LastState Value="3" RealAddress="20332F7F1E0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4427,7 +4189,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30187</ID>
                               <Description>"Focus"</Description>
-                              <LastState Value="3" RealAddress="20332F7EDF0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4441,7 +4202,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30188</ID>
                               <Description>"Caliber"</Description>
-                              <LastState Value="2" RealAddress="20332F7EE20"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4455,7 +4215,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30189</ID>
                               <Description>"Smirk"</Description>
-                              <LastState Value="0" RealAddress="20332F7EE50"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4469,7 +4228,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30190</ID>
                               <Description>"Carrion Call"</Description>
-                              <LastState Value="5" RealAddress="20332F7EE80"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4483,7 +4241,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30191</ID>
                               <Description>"Loaded"</Description>
-                              <LastState Value="0" RealAddress="20332F7EEB0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4497,7 +4254,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30192</ID>
                               <Description>"Trespass"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF40"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4511,7 +4267,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30193</ID>
                               <Description>"Killer"</Description>
-                              <LastState Value="4" RealAddress="20332F7F1B0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4546,7 +4301,6 @@ DC340204:Vehicle  {Driver Seat}
                               <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">00:Not Unlocked
 01:Unlocked
 </DropDownList>
-                              <LastState Value="01" RealAddress="20332F7ED30"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
@@ -4571,7 +4325,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30195</ID>
                               <Description>"Impact"</Description>
-                              <LastState Value="3" RealAddress="20332F7ED90"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4585,7 +4338,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30196</ID>
                               <Description>"Scattershot"</Description>
-                              <LastState Value="2" RealAddress="20332F7EE20"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4599,7 +4351,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30197</ID>
                               <Description>"Refire"</Description>
-                              <LastState Value="0" RealAddress="20332F7EE50"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4613,7 +4364,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30198</ID>
                               <Description>"Assault"</Description>
-                              <LastState Value="5" RealAddress="20332F7EE80"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4627,7 +4377,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30199</ID>
                               <Description>"Sentry"</Description>
-                              <LastState Value="0" RealAddress="20332F7F030"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4641,7 +4390,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30200</ID>
                               <Description>"Guided Missle"</Description>
-                              <LastState Value="0" RealAddress="20332F7F060"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4655,7 +4403,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30201</ID>
                               <Description>"Metal Storm"</Description>
-                              <LastState Value="0" RealAddress="20332F7F180"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4679,7 +4426,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30202</ID>
                               <Description>"Fitness"</Description>
-                              <LastState Value="3" RealAddress="20332F7EDF0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4693,7 +4439,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30203</ID>
                               <Description>"Overload"</Description>
-                              <LastState Value="0" RealAddress="20332F7EEE0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4707,7 +4452,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30204</ID>
                               <Description>"Cauterize"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF10"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4721,7 +4465,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30205</ID>
                               <Description>"Grit"</Description>
-                              <LastState Value="0" RealAddress="20332F7EF40"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4735,7 +4478,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30206</ID>
                               <Description>"Aid Station"</Description>
-                              <LastState Value="0" RealAddress="20332F7F120"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4749,7 +4491,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30207</ID>
                               <Description>"Revive"</Description>
-                              <LastState Value="0" RealAddress="20332F7F150"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4763,7 +4504,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30209</ID>
                               <Description>"Stat"</Description>
-                              <LastState Value="0" RealAddress="20332F7F210"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4787,7 +4527,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30210</ID>
                               <Description>"Defense"</Description>
-                              <LastState Value="0" RealAddress="20332F7EEB0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4801,7 +4540,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30211</ID>
                               <Description>"Deploy"</Description>
-                              <LastState Value="0" RealAddress="20332F7EDC0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4815,7 +4553,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30212</ID>
                               <Description>"Stockpile"</Description>
-                              <LastState Value="0" RealAddress="20332F7F090"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4829,7 +4566,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30213</ID>
                               <Description>"Barrage"</Description>
-                              <LastState Value="0" RealAddress="20332F7F0C0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4843,7 +4579,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30214</ID>
                               <Description>"Supply Drop"</Description>
-                              <LastState Value="0" RealAddress="20332F7F0F0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4857,7 +4592,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30215</ID>
                               <Description>"Quick Charge"</Description>
-                              <LastState Value="4" RealAddress="20332F7F1B0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -4871,7 +4605,6 @@ DC340204:Vehicle  {Driver Seat}
                             <CheatEntry>
                               <ID>30216</ID>
                               <Description>"Grenadier"</Description>
-                              <LastState Value="3" RealAddress="20332F7F1E0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Byte</VariableType>
                               <Address>BorderlandsGOTY.exe+25EA030</Address>
@@ -5121,7 +4854,6 @@ DC340204:Vehicle  {Driver Seat}
                         <CheatEntry>
                           <ID>30038</ID>
                           <Description>"MinValue"</Description>
-                          <LastState Value="0" RealAddress="203492C7CA8"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
@@ -5136,7 +4868,6 @@ DC340204:Vehicle  {Driver Seat}
                         <CheatEntry>
                           <ID>30041</ID>
                           <Description>"MaxValue"</Description>
-                          <LastState Value="0" RealAddress="203492C7CC0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
@@ -5151,7 +4882,6 @@ DC340204:Vehicle  {Driver Seat}
                         <CheatEntry>
                           <ID>30040</ID>
                           <Description>"CurrentValue"</Description>
-                          <LastState Value="0" RealAddress="203492C7CD8"/>
                           <VariableType>Float</VariableType>
                           <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
                           <Offsets>
@@ -5165,7 +4895,6 @@ DC340204:Vehicle  {Driver Seat}
                         <CheatEntry>
                           <ID>30042</ID>
                           <Description>"OnIdleRegenerationRate"</Description>
-                          <LastState Value="0" RealAddress="203492C7D0C"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
@@ -5180,7 +4909,6 @@ DC340204:Vehicle  {Driver Seat}
                         <CheatEntry>
                           <ID>30043</ID>
                           <Description>"OnIdleRegenerationDelay"</Description>
-                          <LastState Value="0" RealAddress="203492C7D24"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
@@ -5200,7 +4928,6 @@ DC340204:Vehicle  {Driver Seat}
 03:False
 10:?
 </DropDownList>
-                          <LastState Value="11" RealAddress="203492C7D88"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>

@@ -392,697 +392,106 @@ dealloc(newmem)
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
-                  <ID>53</ID>
-                  <Description>"AmmoResourcePool"</Description>
+                  <ID>30291</ID>
+                  <Description>"AmmoPool.Data"</Description>
                   <Options moHideChildren="1"/>
                   <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>26333</ID>
-                      <Description>"Sniper Rifle"</Description>
-                      <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
-                      <GroupHeader>1</GroupHeader>
-                      <CheatEntries>
-                        <CheatEntry>
-                          <ID>26332</ID>
-                          <Description>"MinValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>68</Offset>
-                            <Offset>298</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26335</ID>
-                          <Description>"MaxValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>80</Offset>
-                            <Offset>298</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26334</ID>
-                          <Description>"CurrentValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>98</Offset>
-                            <Offset>298</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26336</ID>
-                          <Description>"OnIdleRegenerationRate"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>CC</Offset>
-                            <Offset>298</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26337</ID>
-                          <Description>"OnIdleRegenerationDelay"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>E4</Offset>
-                            <Offset>298</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26338</ID>
-                          <Description>"bDisallowReinitialization"</Description>
-                          <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:No Ammo (Read Only)
-02:True
-03:False
-</DropDownList>
-                          <ShowAsHex>1</ShowAsHex>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Byte</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>148</Offset>
-                            <Offset>298</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                      </CheatEntries>
+                      <ID>30290</ID>
+                      <Description>"MinValue"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>BorderlandsGOTY.exe+25EA030</Address>
+                      <Offsets>
+                        <Offset>68</Offset>
+                        <Offset>498</Offset>
+                        <Offset>834</Offset>
+                        <Offset>260</Offset>
+                        <Offset>544</Offset>
+                        <Offset>6E0</Offset>
+                      </Offsets>
                     </CheatEntry>
                     <CheatEntry>
-                      <ID>26339</ID>
-                      <Description>"Pistol"</Description>
-                      <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
-                      <GroupHeader>1</GroupHeader>
-                      <CheatEntries>
-                        <CheatEntry>
-                          <ID>26340</ID>
-                          <Description>"MinValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>68</Offset>
-                            <Offset>2A0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26341</ID>
-                          <Description>"MaxValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>80</Offset>
-                            <Offset>2A0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26342</ID>
-                          <Description>"CurrentValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>98</Offset>
-                            <Offset>2A0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26343</ID>
-                          <Description>"OnIdleRegenerationRate"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>CC</Offset>
-                            <Offset>2A0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26344</ID>
-                          <Description>"OnIdleRegenerationDelay"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>E4</Offset>
-                            <Offset>2A0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26345</ID>
-                          <Description>"bDisallowReinitialization"</Description>
-                          <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:No Ammo (Read Only)
-02:True
-03:False
-</DropDownList>
-                          <ShowAsHex>1</ShowAsHex>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Byte</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>148</Offset>
-                            <Offset>2A0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                      </CheatEntries>
+                      <ID>30296</ID>
+                      <Description>"MaxValue"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>BorderlandsGOTY.exe+25EA030</Address>
+                      <Offsets>
+                        <Offset>80</Offset>
+                        <Offset>498</Offset>
+                        <Offset>834</Offset>
+                        <Offset>260</Offset>
+                        <Offset>544</Offset>
+                        <Offset>6E0</Offset>
+                      </Offsets>
                     </CheatEntry>
                     <CheatEntry>
-                      <ID>26346</ID>
-                      <Description>"Revolver"</Description>
-                      <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
-                      <GroupHeader>1</GroupHeader>
-                      <CheatEntries>
-                        <CheatEntry>
-                          <ID>26347</ID>
-                          <Description>"MinValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>68</Offset>
-                            <Offset>2A8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26348</ID>
-                          <Description>"MaxValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>80</Offset>
-                            <Offset>2A8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26349</ID>
-                          <Description>"CurrentValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>98</Offset>
-                            <Offset>2A8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26350</ID>
-                          <Description>"OnIdleRegenerationRate"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>CC</Offset>
-                            <Offset>2A8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26351</ID>
-                          <Description>"OnIdleRegenerationDelay"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>E4</Offset>
-                            <Offset>2A8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26352</ID>
-                          <Description>"bDisallowReinitialization"</Description>
-                          <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:No Ammo (Read Only)
-02:True
-03:False
-</DropDownList>
-                          <ShowAsHex>1</ShowAsHex>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Byte</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>148</Offset>
-                            <Offset>2A8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                      </CheatEntries>
+                      <ID>30295</ID>
+                      <Description>"CurrentValue"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>BorderlandsGOTY.exe+25EA030</Address>
+                      <Offsets>
+                        <Offset>98</Offset>
+                        <Offset>498</Offset>
+                        <Offset>834</Offset>
+                        <Offset>260</Offset>
+                        <Offset>544</Offset>
+                        <Offset>6E0</Offset>
+                      </Offsets>
                     </CheatEntry>
                     <CheatEntry>
-                      <ID>26353</ID>
-                      <Description>"SMG"</Description>
-                      <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
-                      <GroupHeader>1</GroupHeader>
-                      <CheatEntries>
-                        <CheatEntry>
-                          <ID>26354</ID>
-                          <Description>"MinValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>68</Offset>
-                            <Offset>2B0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26355</ID>
-                          <Description>"MaxValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>80</Offset>
-                            <Offset>2B0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26356</ID>
-                          <Description>"CurrentValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>98</Offset>
-                            <Offset>2B0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26357</ID>
-                          <Description>"OnIdleRegenerationRate"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>CC</Offset>
-                            <Offset>2B0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26358</ID>
-                          <Description>"OnIdleRegenerationDelay"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>E4</Offset>
-                            <Offset>2B0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26359</ID>
-                          <Description>"bDisallowReinitialization"</Description>
-                          <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:No Ammo (Read Only)
-02:True
-03:False
-</DropDownList>
-                          <ShowAsHex>1</ShowAsHex>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Byte</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>148</Offset>
-                            <Offset>2B0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                      </CheatEntries>
+                      <ID>30292</ID>
+                      <Description>"OnIdleRegenerationRate"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>BorderlandsGOTY.exe+25EA030</Address>
+                      <Offsets>
+                        <Offset>CC</Offset>
+                        <Offset>498</Offset>
+                        <Offset>834</Offset>
+                        <Offset>260</Offset>
+                        <Offset>544</Offset>
+                        <Offset>6E0</Offset>
+                      </Offsets>
                     </CheatEntry>
                     <CheatEntry>
-                      <ID>26360</ID>
-                      <Description>"Shotgun"</Description>
-                      <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
-                      <GroupHeader>1</GroupHeader>
-                      <CheatEntries>
-                        <CheatEntry>
-                          <ID>26361</ID>
-                          <Description>"MinValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>68</Offset>
-                            <Offset>2B8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26362</ID>
-                          <Description>"MaxValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>80</Offset>
-                            <Offset>2B8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26363</ID>
-                          <Description>"CurrentValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>98</Offset>
-                            <Offset>2B8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26364</ID>
-                          <Description>"OnIdleRegenerationRate"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>CC</Offset>
-                            <Offset>2B8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26365</ID>
-                          <Description>"OnIdleRegenerationDelay"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>E4</Offset>
-                            <Offset>2B8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26366</ID>
-                          <Description>"bDisallowReinitialization"</Description>
-                          <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:No Ammo (Read Only)
-02:True
-03:False
-</DropDownList>
-                          <ShowAsHex>1</ShowAsHex>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Byte</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>148</Offset>
-                            <Offset>2B8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                      </CheatEntries>
+                      <ID>30293</ID>
+                      <Description>"OnIdleRegenerationDelay"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>BorderlandsGOTY.exe+25EA030</Address>
+                      <Offsets>
+                        <Offset>E4</Offset>
+                        <Offset>498</Offset>
+                        <Offset>834</Offset>
+                        <Offset>260</Offset>
+                        <Offset>544</Offset>
+                        <Offset>6E0</Offset>
+                      </Offsets>
                     </CheatEntry>
                     <CheatEntry>
-                      <ID>26367</ID>
-                      <Description>"Combat Rifle"</Description>
-                      <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
-                      <GroupHeader>1</GroupHeader>
-                      <CheatEntries>
-                        <CheatEntry>
-                          <ID>26368</ID>
-                          <Description>"MinValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>68</Offset>
-                            <Offset>2C0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26369</ID>
-                          <Description>"MaxValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>80</Offset>
-                            <Offset>2C0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26370</ID>
-                          <Description>"CurrentValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>98</Offset>
-                            <Offset>2C0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26371</ID>
-                          <Description>"OnIdleRegenerationRate"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>CC</Offset>
-                            <Offset>2C0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26372</ID>
-                          <Description>"OnIdleRegenerationDelay"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>E4</Offset>
-                            <Offset>2C0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26373</ID>
-                          <Description>"bDisallowReinitialization"</Description>
-                          <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:No Ammo (Read Only)
+                      <ID>30294</ID>
+                      <Description>"bHasPoolBeenFullSinceLastBeingDepleted"</Description>
+                      <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:No Ammo
 02:True
 03:False
 </DropDownList>
-                          <ShowAsHex>1</ShowAsHex>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Byte</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>148</Offset>
-                            <Offset>2C0</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                      </CheatEntries>
-                    </CheatEntry>
-                    <CheatEntry>
-                      <ID>26374</ID>
-                      <Description>"Launcher"</Description>
-                      <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
-                      <GroupHeader>1</GroupHeader>
-                      <CheatEntries>
-                        <CheatEntry>
-                          <ID>26375</ID>
-                          <Description>"MinValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>68</Offset>
-                            <Offset>2C8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26376</ID>
-                          <Description>"MaxValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>80</Offset>
-                            <Offset>2C8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26377</ID>
-                          <Description>"CurrentValue"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>98</Offset>
-                            <Offset>2C8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26378</ID>
-                          <Description>"OnIdleRegenerationRate"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>CC</Offset>
-                            <Offset>2C8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26379</ID>
-                          <Description>"OnIdleRegenerationDelay"</Description>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Float</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>E4</Offset>
-                            <Offset>2C8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                        <CheatEntry>
-                          <ID>26380</ID>
-                          <Description>"bDisallowReinitialization"</Description>
-                          <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:No Ammo (Read Only)
-02:True
-03:False
-</DropDownList>
-                          <ShowAsHex>1</ShowAsHex>
-                          <ShowAsSigned>0</ShowAsSigned>
-                          <VariableType>Byte</VariableType>
-                          <Address>BorderlandsGOTY.exe+25EA030</Address>
-                          <Offsets>
-                            <Offset>148</Offset>
-                            <Offset>2C8</Offset>
-                            <Offset>1098</Offset>
-                            <Offset>544</Offset>
-                            <Offset>6E0</Offset>
-                          </Offsets>
-                        </CheatEntry>
-                      </CheatEntries>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Byte</VariableType>
+                      <Address>BorderlandsGOTY.exe+25EA030</Address>
+                      <Offsets>
+                        <Offset>148</Offset>
+                        <Offset>498</Offset>
+                        <Offset>834</Offset>
+                        <Offset>260</Offset>
+                        <Offset>544</Offset>
+                        <Offset>6E0</Offset>
+                      </Offsets>
                     </CheatEntry>
                   </CheatEntries>
                 </CheatEntry>
@@ -1165,7 +574,7 @@ dealloc(newmem)
                     </CheatEntry>
                     <CheatEntry>
                       <ID>26331</ID>
-                      <Description>"bDisallowReinitialization"</Description>
+                      <Description>"bHasPoolBeenFullSinceLastBeingDepleted"</Description>
                       <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:No Grenades (Read Only)
 02:True
 03:False
@@ -1195,7 +604,7 @@ dealloc(newmem)
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
-                  <ID>26447</ID>
+                  <ID>30300</ID>
                   <Description>"CashValue"</Description>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
@@ -1273,12 +682,24 @@ dealloc(newmem)
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
+                  <ID>30297</ID>
+                  <Description>"ClipSize"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>4C4</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
                   <ID>26445</ID>
                   <Description>"ShotCost"</Description>
-                  <DropDownList ReadOnly="1" DisplayValueAsItem="1">00:True
-01:False
-02:?
-07:Eridian Weapon?
+                  <DropDownList ReadOnly="1" DisplayValueAsItem="1">00:Infinite
+01:Normal
+07:Eridian Weapon
 </DropDownList>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
@@ -1305,6 +726,32 @@ dealloc(newmem)
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
+                  <ID>30299</ID>
+                  <Description>"RegenAmount"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>55C</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30302</ID>
+                  <Description>"OverheatAmmo"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>560</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
                   <ID>26453</ID>
                   <Description>"ReloadTime"</Description>
                   <ShowAsSigned>0</ShowAsSigned>
@@ -1319,6 +766,20 @@ dealloc(newmem)
                 </CheatEntry>
                 <CheatEntry>
                   <ID>26454</ID>
+                  <Description>"ZoomState"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>581</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30301</ID>
                   <Description>"NormalizedInstantHitDamage"</Description>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
@@ -1377,6 +838,24 @@ dealloc(newmem)
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
                   <Offsets>
                     <Offset>760</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>26447</ID>
+                  <Description>"bPlayerCannotDrop"</Description>
+                  <DropDownList ReadOnly="1" DisplayValueAsItem="1">00:False
+01:True
+</DropDownList>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>68</Offset>
+                    <Offset>808</Offset>
                     <Offset>834</Offset>
                     <Offset>134</Offset>
                     <Offset>10</Offset>
@@ -1818,7 +1297,7 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 </CheatEntry>
                 <CheatEntry>
                   <ID>26317</ID>
-                  <Description>"bDisallowReinitialization"</Description>
+                  <Description>"bHasPoolBeenFullSinceLastBeingDepleted"</Description>
                   <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:Downed (Read Only)
 02:True
 03:False
@@ -2081,7 +1560,7 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 </CheatEntry>
                 <CheatEntry>
                   <ID>26483</ID>
-                  <Description>"bDisallowReinitialization"</Description>
+                  <Description>"bHasPoolBeenFullSinceLastBeingDepleted"</Description>
                   <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:False
 02:True
 03:Action Skill Activated (Read Only)
@@ -2180,7 +1659,7 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                 </CheatEntry>
                 <CheatEntry>
                   <ID>26325</ID>
-                  <Description>"bDisallowReinitialization"</Description>
+                  <Description>"bHasPoolBeenFullSinceLastBeingDepleted"</Description>
                   <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:Shield Broken (Read Only)
 02:True
 03:False
@@ -4717,7 +4196,7 @@ DC340204:Vehicle  {Driver Seat}
                         </CheatEntry>
                         <CheatEntry>
                           <ID>29919</ID>
-                          <Description>"bDisallowReinitialization"</Description>
+                          <Description>"bHasPoolBeenFullSinceLastBeingDepleted"</Description>
                           <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:?
 02:True
 03:False
@@ -4816,7 +4295,7 @@ DC340204:Vehicle  {Driver Seat}
                         </CheatEntry>
                         <CheatEntry>
                           <ID>29904</ID>
-                          <Description>"bDisallowReinitialization"</Description>
+                          <Description>"bHasPoolBeenFullSinceLastBeingDepleted"</Description>
                           <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:?
 02:True
 03:False
@@ -4923,7 +4402,7 @@ DC340204:Vehicle  {Driver Seat}
                         </CheatEntry>
                         <CheatEntry>
                           <ID>30044</ID>
-                          <Description>"bDisallowReinitialization"</Description>
+                          <Description>"bHasPoolBeenFullSinceLastBeingDepleted"</Description>
                           <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:?
 02:True
 03:False
@@ -5022,7 +4501,7 @@ DC340204:Vehicle  {Driver Seat}
                         </CheatEntry>
                         <CheatEntry>
                           <ID>30034</ID>
-                          <Description>"bDisallowReinitialization"</Description>
+                          <Description>"bHasPoolBeenFullSinceLastBeingDepleted"</Description>
                           <DropDownList ReadOnly="1" DisplayValueAsItem="1">01:?
 02:True
 03:False

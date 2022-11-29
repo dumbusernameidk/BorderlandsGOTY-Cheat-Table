@@ -17,38 +17,29 @@
           <AssemblerScript Async="1">[ENABLE]
 aobscanmodule(injMissionStart,BorderlandsGOTY.exe,8B 4C 81 08 41 39 4C 9D 00)
 alloc(newmem,64,"BorderlandsGOTY.exe"+13D2F52)
-label(code)
-label(return)
-label(Objectives_ptr)
-registersymbol(injMissionStart)
-registersymbol(Objectives_ptr)
+label(Exit)
+registersymbol(injMissionStart,Objectives_ptr)
 
 newmem:
-mov [Objectives_ptr],rcx
-
-code:
-mov ecx,[rcx+rax*4+08]
-cmp [r13+rbx*4+00],ecx
-jmp return
+mov   [Objectives_ptr],rcx
+mov   ecx,[rcx+rax*4+08]
+cmp   [r13+rbx*4+00],ecx
+jmp   Exit
 
 Objectives_ptr:
-dq 0
+dq   0000000000000000
 
 injMissionStart:
-jmp newmem
-nop
-nop
-nop
-nop
+jmp   newmem
+nop   4
 
-return:
+Exit:
 
 [DISABLE]
 injMissionStart:
 db 8B 4C 81 08 41 39 4C 9D 00
-unregistersymbol(injMissionStart)
-unregistersymbol(Objectives_ptr)
 dealloc(newmem)
+unregistersymbol(injMissionStart,Objectives_ptr)
 </AssemblerScript>
           <CheatEntries>
             <CheatEntry>
@@ -61,6 +52,13 @@ dealloc(newmem)
             <CheatEntry>
               <ID>1283</ID>
               <Description>"Only input a 1 for the amount of objectives for your current mission"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>5151FF</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>30303</ID>
+              <Description>"Pointers fill correctly based on how many mission objectives you have"</Description>
               <LastState Value="" RealAddress="00000000"/>
               <Color>5151FF</Color>
               <GroupHeader>1</GroupHeader>

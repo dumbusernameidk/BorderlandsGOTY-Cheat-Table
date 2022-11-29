@@ -16,7 +16,7 @@
           <VariableType>Auto Assembler Script</VariableType>
           <AssemblerScript Async="1">[ENABLE]
 aobscanmodule(injMissionStart,BorderlandsGOTY.exe,8B 4C 81 08 41 39 4C 9D 00)
-alloc(newmem,64,"BorderlandsGOTY.exe"+13D2F52)
+alloc(newmem,$1000,injMissionStart)
 label(Exit)
 registersymbol(injMissionStart,Objectives_ptr)
 

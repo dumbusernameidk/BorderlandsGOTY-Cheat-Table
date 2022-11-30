@@ -21,9 +21,9 @@ label(Exit)
 registersymbol(injMissionStart,Objectives_ptr)
 
 newmem:
-mov   [Objectives_ptr],rcx
-mov   ecx,[rcx+rax*4+08]
-cmp   [r13+rbx*4+00],ecx
+mov   [Objectives_ptr], rcx
+mov   ecx, [rcx+rax*4+08]
+cmp   [r13+rbx*4+00], ecx
 jmp   Exit
 
 Objectives_ptr:
@@ -2566,13 +2566,18 @@ unregistersymbol(getWorldInfoStruct,WorldInfoPointer)
                         <CheatEntry>
                           <ID>29835</ID>
                           <Description>"bPlayersOnly"</Description>
-                          <DropDownList ReadOnly="1" DisplayValueAsItem="1">09:Normal
-0B:Error message
-11:Can't move player/AI doesn't move
-13:Can't move player/AI doesn't move + error message
-19:Can move player/AI and other things don't move
-21:Nothing moves
-29:Player can't move (being inside equip screen)
+                          <DropDownList ReadOnly="1" DisplayValueAsItem="1">03:Offsets Camera||Freezes Player||Pathing Error Message
+08:MainMenu?
+09:Normal
+0B:Pathing Error Message
+11:Offsets Camera||Freezes Player||AI doesn't update
+13:Offsets Camera||AI doesn't move||Pathing Error Message
+19:Can move player||AI and Objects don't update
+21:Offsets Camera||Nothing updates {Player||AI||Objects||Time||UI}
+29:Equipment Screen
+49:??
+C8:isLoading?
+C9:??
 </DropDownList>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
@@ -2644,9 +2649,9 @@ unregistersymbol(getWorldInfoStruct,WorldInfoPointer)
                     <CheatEntry>
                       <ID>26508</ID>
                       <Description>"Physics"</Description>
-                      <DropDownList ReadOnly="1" DisplayValueAsItem="1">00:Prevents Walking || Vehicle {Gunner Seat}
+                      <DropDownList ReadOnly="1" DisplayValueAsItem="1">00:Prevents Walking||Vehicle {Gunner Seat}
 01:Normal
-02:Jumping/Falling/Being Hit (Read only)
+02:Jumping||Falling||Being Hit
 04:T-pose (3rd person) + flying
 0A:Vehicle {Driver Seat}
 </DropDownList>
@@ -4345,7 +4350,7 @@ DC340204:Vehicle  {Driver Seat}
                           <Description>"MaxValue"</Description>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
-                          <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
+                          <Address>BorderlandsGOTY.exe+25EC5E0</Address>
                           <Offsets>
                             <Offset>80</Offset>
                             <Offset>258</Offset>
@@ -4357,8 +4362,9 @@ DC340204:Vehicle  {Driver Seat}
                         <CheatEntry>
                           <ID>30040</ID>
                           <Description>"CurrentValue"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
-                          <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
+                          <Address>BorderlandsGOTY.exe+25EC5E0</Address>
                           <Offsets>
                             <Offset>98</Offset>
                             <Offset>258</Offset>
@@ -4372,7 +4378,7 @@ DC340204:Vehicle  {Driver Seat}
                           <Description>"OnIdleRegenerationRate"</Description>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
-                          <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
+                          <Address>BorderlandsGOTY.exe+25EC5E0</Address>
                           <Offsets>
                             <Offset>CC</Offset>
                             <Offset>258</Offset>
@@ -4386,7 +4392,7 @@ DC340204:Vehicle  {Driver Seat}
                           <Description>"OnIdleRegenerationDelay"</Description>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
-                          <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
+                          <Address>BorderlandsGOTY.exe+25EC5E0</Address>
                           <Offsets>
                             <Offset>E4</Offset>
                             <Offset>258</Offset>
@@ -4406,7 +4412,7 @@ DC340204:Vehicle  {Driver Seat}
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Byte</VariableType>
-                          <Address>"BorderlandsGOTY.exe"+025EC5E0</Address>
+                          <Address>BorderlandsGOTY.exe+25EC5E0</Address>
                           <Offsets>
                             <Offset>148</Offset>
                             <Offset>258</Offset>

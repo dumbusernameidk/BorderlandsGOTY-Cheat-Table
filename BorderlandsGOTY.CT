@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CheatTable CheatEngineTableVersion="38">
+<CheatTable CheatEngineTableVersion="42">
   <CheatEntries>
     <CheatEntry>
       <ID>1442</ID>
       <Description>"Open"</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>913</ID>
           <Description>"Mission Pointers"</Description>
           <Options moHideChildren="1"/>
-          <LastState/>
           <VariableType>Auto Assembler Script</VariableType>
           <AssemblerScript Async="1">[ENABLE]
 aobscanmodule(injMissionStart,BorderlandsGOTY.exe,8B 4C 81 08 41 39 4C 9D 00)
@@ -45,21 +43,18 @@ unregistersymbol(injMissionStart,Objectives_ptr)
             <CheatEntry>
               <ID>1284</ID>
               <Description>"Missions with do X objective X times can be done ie., 9/10."</Description>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>4F4FFF</Color>
               <GroupHeader>1</GroupHeader>
             </CheatEntry>
             <CheatEntry>
               <ID>1283</ID>
               <Description>"Only input a 1 for the amount of objectives for your current mission"</Description>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>5151FF</Color>
               <GroupHeader>1</GroupHeader>
             </CheatEntry>
             <CheatEntry>
               <ID>30303</ID>
               <Description>"Pointers fill correctly based on how many mission objectives you have"</Description>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>5151FF</Color>
               <GroupHeader>1</GroupHeader>
             </CheatEntry>
@@ -114,13 +109,11 @@ unregistersymbol(injMissionStart,Objectives_ptr)
           <ID>132</ID>
           <Description>"ProfileSettings"</Description>
           <Options moHideChildren="1"/>
-          <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
               <ID>133</ID>
               <Description>"Changes take effect after going through a loading screen/main menu."</Description>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>5151FF</Color>
               <GroupHeader>1</GroupHeader>
             </CheatEntry>
@@ -128,7 +121,6 @@ unregistersymbol(injMissionStart,Objectives_ptr)
               <ID>144</ID>
               <Description>"Audio"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
@@ -245,7 +237,6 @@ unregistersymbol(injMissionStart,Objectives_ptr)
               <ID>134</ID>
               <Description>"Game Options"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
@@ -376,21 +367,18 @@ unregistersymbol(injMissionStart,Objectives_ptr)
           <ID>10</ID>
           <Description>"WillowPawn"</Description>
           <Options moHideChildren="1"/>
-          <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
               <ID>26</ID>
               <Description>"Ammo/Grenades"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>30291</ID>
                   <Description>"AmmoPool.Data"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -494,7 +482,6 @@ unregistersymbol(injMissionStart,Objectives_ptr)
                   <ID>26248</ID>
                   <Description>"ResourcePool  {Grenades}"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -595,7 +582,6 @@ unregistersymbol(injMissionStart,Objectives_ptr)
               <ID>26382</ID>
               <Description>"AttachedWeapon"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
@@ -606,6 +592,97 @@ unregistersymbol(injMissionStart,Objectives_ptr)
                   <Address>BorderlandsGOTY.exe+24EE608</Address>
                   <Offsets>
                     <Offset>2BC</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30308</ID>
+                  <Description>"TechLevel"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>2CC</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30309</ID>
+                  <Description>"RarityLevel"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>2D0</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30310</ID>
+                  <Description>"MinRarityLevel"</Description>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>2D4</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30311</ID>
+                  <Description>"MaxRarityLevel"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>2D8</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30312</ID>
+                  <Description>"ExpLevel  {WeaponLevel}"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>2DC</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30313</ID>
+                  <Description>"GameStage"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>2E0</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30314</ID>
+                  <Description>"AwesomeLevel"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>2E4</Offset>
                     <Offset>834</Offset>
                     <Offset>134</Offset>
                     <Offset>10</Offset>
@@ -857,17 +934,67 @@ unregistersymbol(injMissionStart,Objectives_ptr)
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
+                  <ID>30304</ID>
+                  <Description>"CrosshairColor_Default.B"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>978</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30307</ID>
+                  <Description>"CrosshairColor_Default.G"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>979</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30306</ID>
+                  <Description>"CrosshairColor_Default.R"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>97A</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30305</ID>
+                  <Description>"CrosshairColor_Default.A"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>BorderlandsGOTY.exe+24EE608</Address>
+                  <Offsets>
+                    <Offset>97B</Offset>
+                    <Offset>834</Offset>
+                    <Offset>134</Offset>
+                    <Offset>10</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
                   <ID>862</ID>
                   <Description>"Weapon Proficiencies"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>864</ID>
                       <Description>"Experience"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -967,7 +1094,6 @@ unregistersymbol(injMissionStart,Objectives_ptr)
                       <ID>863</ID>
                       <Description>"Level"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -1057,7 +1183,6 @@ unregistersymbol(injMissionStart,Objectives_ptr)
               <ID>26494</ID>
               <Description>"Etc"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
@@ -1079,7 +1204,6 @@ unregistersymbol(injMissionStart,Objectives_ptr)
               <ID>30226</ID>
               <Description>"getGoldenKeys"</Description>
               <Options moHideChildren="1"/>
-              <LastState/>
               <VariableType>Auto Assembler Script</VariableType>
               <AssemblerScript Async="1">[ENABLE]
 aobscanmodule(getGoldenKeys,BorderlandsGOTY.exe,01 75 * 8B 41 04 89 *)
@@ -1115,14 +1239,12 @@ unregistersymbol(getGoldenKeys,GoldenKeyPointer)
                 <CheatEntry>
                   <ID>30229</ID>
                   <Description>"Pointers Load after hovering over Golden Key Chest"</Description>
-                  <LastState Value="" RealAddress="00000000"/>
                   <Color>5B5BFF</Color>
                   <GroupHeader>1</GroupHeader>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>30230</ID>
                   <Description>"How keys work  --&gt; (totalGoldenKeys - goldenKeysUsed = currentGoldenKeys) "</Description>
-                  <LastState Value="" RealAddress="00000000"/>
                   <Color>5B5BFF</Color>
                   <GroupHeader>1</GroupHeader>
                 </CheatEntry>
@@ -1152,7 +1274,6 @@ unregistersymbol(getGoldenKeys,GoldenKeyPointer)
               <ID>27822</ID>
               <Description>"getWillowSeqAct_DayNightCycle"</Description>
               <Options moHideChildren="1"/>
-              <LastState/>
               <VariableType>Auto Assembler Script</VariableType>
               <AssemblerScript Async="1">[ENABLE]
 aobscanmodule(WillowSeqAct_DayNightCycleClass,BorderlandsGOTY.exe,8B 8F DC 01 00 00 33)
@@ -1217,7 +1338,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
               <ID>11</ID>
               <Description>"HealthResourcePool"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
@@ -1316,14 +1436,12 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
               <ID>295</ID>
               <Description>"Multipliers"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>296</ID>
                   <Description>"Damage"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -1436,7 +1554,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                   <ID>317</ID>
                   <Description>"Other"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -1471,7 +1588,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                   <ID>343</ID>
                   <Description>"Resistance"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                 </CheatEntry>
               </CheatEntries>
@@ -1480,7 +1596,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
               <ID>67</ID>
               <Description>"ResourcePool  {Action Skill}"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
@@ -1579,7 +1694,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
               <ID>14</ID>
               <Description>"ResourcePool  {Shield}"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
@@ -1679,21 +1793,18 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
               <ID>385</ID>
               <Description>"StatsProperties"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>386</ID>
                   <Description>"Kills"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>406</ID>
                       <Description>"Elements"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -1754,7 +1865,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                       <ID>405</ID>
                       <Description>"Enemies"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -1867,7 +1977,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                       <ID>401</ID>
                       <Description>"Weapons"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -2021,7 +2130,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                   <ID>410</ID>
                   <Description>"Loot"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -2082,7 +2190,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                   <ID>415</ID>
                   <Description>"Misc"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -2132,7 +2239,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
               <ID>93</ID>
               <Description>"WillowInventoryManager"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
@@ -2206,7 +2312,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
               <ID>18</ID>
               <Description>"WillowPlayerReplicationInfo"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
@@ -2254,51 +2359,52 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
               <ID>107</ID>
               <Description>"WillowPlayerPawn"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>152</ID>
                   <Description>"Camera"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
-                      <ID>28373</ID>
+                      <ID>30316</ID>
                       <Description>"Rotation.Pitch"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
-                      <VariableType>Float</VariableType>
+                      <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
                       <Offsets>
                         <Offset>9C</Offset>
-                        <Offset>260</Offset>
+                        <Offset>26C</Offset>
+                        <Offset>CE8</Offset>
                         <Offset>544</Offset>
                         <Offset>6E0</Offset>
                       </Offsets>
                     </CheatEntry>
                     <CheatEntry>
-                      <ID>28374</ID>
+                      <ID>30317</ID>
                       <Description>"Rotation.Yaw"</Description>
-                      <ShowAsSigned>1</ShowAsSigned>
+                      <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
                       <Offsets>
                         <Offset>A0</Offset>
-                        <Offset>260</Offset>
+                        <Offset>26C</Offset>
+                        <Offset>CE8</Offset>
                         <Offset>544</Offset>
                         <Offset>6E0</Offset>
                       </Offsets>
                     </CheatEntry>
                     <CheatEntry>
-                      <ID>28375</ID>
+                      <ID>30318</ID>
                       <Description>"Rotation.Roll"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
-                      <VariableType>Float</VariableType>
+                      <VariableType>4 Bytes</VariableType>
                       <Address>BorderlandsGOTY.exe+25EA030</Address>
                       <Offsets>
                         <Offset>A4</Offset>
-                        <Offset>260</Offset>
+                        <Offset>26C</Offset>
+                        <Offset>CE8</Offset>
                         <Offset>544</Offset>
                         <Offset>6E0</Offset>
                       </Offsets>
@@ -2335,7 +2441,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                   <ID>108</ID>
                   <Description>"Coords"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -2422,7 +2527,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                   <ID>30232</ID>
                   <Description>"Map"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -2467,7 +2571,6 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                   <ID>85</ID>
                   <Description>"Movement"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
@@ -2515,20 +2618,17 @@ unregistersymbol(WillowSeqAct_DayNightCycleClass,WillowSeqAct_DayNightCycleClass
                   <ID>106</ID>
                   <Description>"Other"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>29830</ID>
                       <Description>"getWorldInfo"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState/>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript Async="1">[ENABLE]
 aobscanmodule(getWorldInfoStruct,BorderlandsGOTY.exe,48 8B 01 48 8B D9 FF 90 * * * * F3 0F 59 83 * * * * 48 83 C4 20 5B C3)
 alloc(newmem,$1000,getWorldInfoStruct)
 label(Exit)
-
 registersymbol(getWorldInfoStruct,WorldInfoPointer)
 
 newmem:
@@ -2730,20 +2830,17 @@ DC340204:Vehicle  {Driver Seat}
                   <ID>218</ID>
                   <Description>"PlayerSkill"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>856</ID>
                       <Description>"Some pointers share between characters some don't best to use your class only."</Description>
-                      <LastState Value="" RealAddress="00000000"/>
                       <Color>4242FF</Color>
                       <GroupHeader>1</GroupHeader>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>857</ID>
                       <Description>"Skills techincally cap 5/5 but can go higher. Best to just stay in Byte range (0-255)."</Description>
-                      <LastState Value="" RealAddress="00000000"/>
                       <Color>4242FF</Color>
                       <GroupHeader>1</GroupHeader>
                     </CheatEntry>
@@ -2751,14 +2848,12 @@ DC340204:Vehicle  {Driver Seat}
                       <ID>265</ID>
                       <Description>"Brick"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
                           <ID>291</ID>
                           <Description>"Action Skill"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
                             <CheatEntry>
@@ -2784,7 +2879,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>283</ID>
                           <Description>"Blaster"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>00FF00</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -2885,7 +2979,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>267</ID>
                           <Description>"Brawler"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>DAD125</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -2986,7 +3079,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>275</ID>
                           <Description>"Tank"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>00009D</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -3089,14 +3181,12 @@ DC340204:Vehicle  {Driver Seat}
                       <ID>219</ID>
                       <Description>"Lilith"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
                           <ID>264</ID>
                           <Description>"Action Skill"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
                             <CheatEntry>
@@ -3122,7 +3212,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>247</ID>
                           <Description>"Assassin"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>00FF00</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -3223,7 +3312,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>220</ID>
                           <Description>"Controller"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>E8EC37</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -3324,7 +3412,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>232</ID>
                           <Description>"Elemental"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>000080</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -3427,14 +3514,12 @@ DC340204:Vehicle  {Driver Seat}
                       <ID>307</ID>
                       <Description>"Mordecai"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
                           <ID>321</ID>
                           <Description>"Action Skill"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
                             <CheatEntry>
@@ -3460,7 +3545,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>330</ID>
                           <Description>"Gunslinger"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>00FF00</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -3561,7 +3645,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>323</ID>
                           <Description>"Rogue"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>000080</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -3662,7 +3745,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>308</ID>
                           <Description>"Sniper"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>D5D52B</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -3765,14 +3847,12 @@ DC340204:Vehicle  {Driver Seat}
                       <ID>436</ID>
                       <Description>"Roland"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
                           <ID>438</ID>
                           <Description>"Action Skill"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
                             <CheatEntry>
@@ -3798,7 +3878,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>437</ID>
                           <Description>"Infantry"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>E9D916</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -3899,7 +3978,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>440</ID>
                           <Description>"Medic"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>00FF00</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -4000,7 +4078,6 @@ DC340204:Vehicle  {Driver Seat}
                           <ID>439</ID>
                           <Description>"Support"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Value="" RealAddress="00000000"/>
                           <Color>0000FF</Color>
                           <GroupHeader>1</GroupHeader>
                           <CheatEntries>
@@ -4107,21 +4184,18 @@ DC340204:Vehicle  {Driver Seat}
               <ID>187</ID>
               <Description>"WillowVehicle_WheeledVehicle"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>188</ID>
                   <Description>"Vehicle 1"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>197</ID>
                       <Description>"ResourcePools  {Boost}"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -4220,7 +4294,6 @@ DC340204:Vehicle  {Driver Seat}
                       <ID>189</ID>
                       <Description>"HealthResourcePool"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -4321,14 +4394,12 @@ DC340204:Vehicle  {Driver Seat}
                   <ID>204</ID>
                   <Description>"Vehicle 2"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>212</ID>
                       <Description>"ResourcePools  {Boost}"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
@@ -4427,7 +4498,6 @@ DC340204:Vehicle  {Driver Seat}
                       <ID>205</ID>
                       <Description>"HealthResourcePool"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
                         <CheatEntry>
